@@ -1,0 +1,79 @@
+[
+  {
+    "id": "conciseness:plays-kleist:management/persona_nicias.md#Projection:conciseness",
+    "engine": "plays-kleist",
+    "where": "management/persona_nicias.md#Projection",
+    "rubric": "conciseness",
+    "reason": "The passage contains redundant phrases and can be made more concise.",
+    "suggestion": "The most generous man in the room, his productions cost more than anyone else's: costumes never reused, tripods still standing a century after his death. He carries the weight of piety and silver from the mines at Laurium, outdoing his rivals in expenditure rather than speech, as the crowd trusts lavishness and suspects brilliance.",
+    "treatment": null,
+    "status": "open",
+    "resolution": null
+  },
+  {
+    "id": "conciseness:plays-kleist:management/persona_nicias.md#Tell:conciseness",
+    "engine": "plays-kleist",
+    "where": "management/persona_nicias.md#Tell",
+    "rubric": "conciseness",
+    "reason": "The passage contains redundant phrases that can be removed without losing meaning.",
+    "suggestion": "He consults the omens before moving. This consultation, once a sign of seriousness, becomes a shape of a man who cannot commit without permission from something larger than himself.",
+    "treatment": null,
+    "status": "open",
+    "resolution": null
+  },
+  {
+    "id": "conciseness:plays-kleist:management/persona_pericles.md (failed):n/a",
+    "engine": "plays-kleist",
+    "where": "management/persona_pericles.md (failed)",
+    "rubric": "n/a",
+    "reason": "modelJudge: openai/gpt-4o-mini returned 429 Too Many Requests Too many requests. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).",
+    "suggestion": null,
+    "treatment": null,
+    "status": "open",
+    "resolution": null
+  },
+  {
+    "id": "conciseness:plays-kleist:management/persona_tieck.md (failed):n/a",
+    "engine": "plays-kleist",
+    "where": "management/persona_tieck.md (failed)",
+    "rubric": "n/a",
+    "reason": "modelJudge: openai/gpt-4o-mini returned 429 Too Many Requests Too many requests. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).",
+    "suggestion": null,
+    "treatment": null,
+    "status": "open",
+    "resolution": null
+  },
+  {
+    "id": "conciseness:plays-kleist:management/position_choregos.md (failed):n/a",
+    "engine": "plays-kleist",
+    "where": "management/position_choregos.md (failed)",
+    "rubric": "n/a",
+    "reason": "modelJudge: openai/gpt-4o-mini returned 429 Too Many Requests Too many requests. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).",
+    "suggestion": null,
+    "treatment": null,
+    "status": "open",
+    "resolution": null
+  },
+  {
+    "id": "conciseness:plays-kleist:management/position_playwright.md (failed):n/a",
+    "engine": "plays-kleist",
+    "where": "management/position_playwright.md (failed)",
+    "rubric": "n/a",
+    "reason": "modelJudge: openai/gpt-4o-mini returned 429 Too Many Requests Too many requests. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).",
+    "suggestion": null,
+    "treatment": null,
+    "status": "open",
+    "resolution": null
+  },
+  {
+    "id": "conciseness:plays-kleist:management/position_theatre_manager.md (failed):n/a",
+    "engine": "plays-kleist",
+    "where": "management/position_theatre_manager.md (failed)",
+    "rubric": "n/a",
+    "reason": "modelJudge: openai/gpt-4o-mini returned 429 Too Many Requests Too many requests. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).",
+    "suggestion": null,
+    "treatment": null,
+    "status": "open",
+    "resolution": null
+  }
+]
