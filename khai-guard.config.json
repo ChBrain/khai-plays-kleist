@@ -20,7 +20,8 @@
       "LICENSE",
       "LICENSE-CODE",
       "SECURITY.md",
-      "registry.json"
+      "registry.json",
+      ".gitattributes"
     ],
     "riders": [{ "pattern": "management/orders/**", "fallback": "governance" }],
     "lanes": [
