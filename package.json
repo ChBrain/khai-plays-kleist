@@ -1,0 +1,48 @@
+{
+  "name": "@chbrain/khai-plays-kleist",
+  "version": "0.0.0",
+  "description": "The fault-lines of Heinrich von Kleist: broken trust, somnambulism, sudden violence, and the marionette's impossible grace.",
+  "type": "module",
+  "license": "SEE LICENSE IN LICENSE and LICENSE-CODE",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChBrain/khai-plays-kleist.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
+    "access": "public"
+  },
+  "files": [
+    "plays/**",
+    "README.md",
+    "LICENSE",
+    "LICENSE-CODE"
+  ],
+  "khai": {
+    "engine": "plays-kleist",
+    "languages": [],
+    "card": {
+      "wire": "The fault-lines of Heinrich von Kleist: broken trust, somnambulism, sudden violence, and the marionette's impossible grace."
+    },
+    "plays": {}
+  },
+  "scripts": {
+    "test": "vitest run",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "version": "changeset version",
+    "release": "changeset publish"
+  },
+  "devDependencies": {
+    "@changesets/cli": "^2.27.8",
+    "@chbrain/khai-arch": "^0.1.9",
+    "@chbrain/khai-guard": "^0.1.9",
+    "@chbrain/khai-language": "^0.1.3",
+    "@chbrain/khai-pack": "^0.0.3",
+    "@chbrain/khai-review": "^0.1.2",
+    "@chbrain/khai-tests": "^0.1.11",
+    "husky": "^9.1.0",
+    "prettier": "^3.3.0",
+    "vitest": "^4.1.8"
+  }
+}
