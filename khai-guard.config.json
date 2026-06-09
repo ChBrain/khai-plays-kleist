@@ -13,6 +13,7 @@
       "package-lock.json",
       "CHANGELOG.md",
       ".prettierrc",
+      ".prettierignore",
       ".gitignore",
       ".npmrc",
       ".nvmrc",
