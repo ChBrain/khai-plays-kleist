@@ -16,7 +16,8 @@ The current status of the Kleist productions within this house:
 - [x] **Prinz Friedrich von Homburg** (Drama) - Staged
 - [x] **Penthesilea** (Tragedy) - Staged
 - [x] **Die Familie Schroffenstein** (Tragedy) - Staged
-- [ ] **Michael Kohlhaas** (Novella) - Planned
+- [x] **Michael Kohlhaas** (Novella) - Staged
+- [ ] **Amphitryon** (Comedy) - Planned
 
 ## Origin
 
