@@ -25,7 +25,7 @@ Die Huisumer Gerichtsstube, ein enger, mit staubigen Aktenbänden und wurmstichi
 
 ## Holds
 
-[Der Krug](krug.md)
+[Der Krug](piece_krug.md)
 
 ## Offers
 

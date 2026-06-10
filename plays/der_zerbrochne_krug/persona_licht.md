@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-[Gerichtsschreiber](schreiber.md)
+[Gerichtsschreiber](position_schreiber.md)
 
 ## Owner
 

@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-[Gerichtsrat](gerichtsrat.md)
+[Gerichtsrat](position_gerichtsrat.md)
 
 ## Owner
 

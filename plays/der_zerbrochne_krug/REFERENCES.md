@@ -20,5 +20,5 @@ Projekt Gutenberg E-Book 6647, basierend auf der Erstausgabe von 1811 und dem hi
 ## Encoding
 
 - **das Spiel ([play_der_zerbrochne_krug.md](play_der_zerbrochne_krug.md))**: Die Definition nach ENACTS.
-- **die Stube ([gerichtsstube.md](gerichtsstube.md))**: Das dörfliche Druckumfeld.
-- **die Akteure**: Dorfrichter [Adam](adam.md) und Schreiber [Licht](licht.md) in ihren jeweiligen Funktionen.
+- **die Stube ([gerichtsstube.md](place_gerichtsstube.md))**: Das dörfliche Druckumfeld.
+- **die Akteure**: Dorfrichter [Adam](persona_adam.md) und Schreiber [Licht](persona_licht.md) in ihren jeweiligen Funktionen.

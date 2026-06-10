@@ -7,6 +7,11 @@
       "id": "der_zerbrochne_krug",
       "title": "Der zerbrochne Krug",
       "description": "Ein Lustspiel über Richter Adam, der einen Gerichtsprozess über eine Tat leitet, die er selbst begangen hat."
+    },
+    {
+      "id": "prinz_friedrich_von_homburg",
+      "title": "Prinz Friedrich von Homburg",
+      "description": "Ein Drama über den Widerstreit zwischen individuellem Gefühl und der unerbittlichen Ordnung des Kriegsgesetzes."
     }
   ]
 }

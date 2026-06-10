@@ -21,7 +21,7 @@ Hausrat
 
 ## Place
 
-[Gerichtsstube](gerichtsstube.md)
+[Gerichtsstube](place_gerichtsstube.md)
 
 ## Load Bearing
 

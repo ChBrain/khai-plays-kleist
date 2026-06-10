@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-[Zeuge](zeuge.md)
+[Zeuge](position_zeuge.md)
 
 ## Owner
 
