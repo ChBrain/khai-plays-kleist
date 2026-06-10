@@ -2,7 +2,7 @@
 khai: play
 title: "Der zerbrochne Krug"
 declared: "Der zerbrochne Krug"
-license: CC-BY-NC-4.0
+license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
@@ -26,28 +26,28 @@ Der Richter Adam, gezwungen vom herabsteigenden Gerichtsrat Walter, hält Gerich
 ## Company
 
 - Personas:
-  - [Dorfrichter Adam](adam.md)
-  - [Schreiber Licht](licht.md)
-  - [Gerichtsrat Walter](walter.md)
-  - [Frau Marthe Rull](marthe.md)
-  - [Eve](eve.md)
-  - [Ruprecht](ruprecht.md)
+  - [Dorfrichter Adam](persona_adam.md)
+  - [Schreiber Licht](persona_licht.md)
+  - [Gerichtsrat Walter](persona_walter.md)
+  - [Frau Marthe Rull](persona_marthe.md)
+  - [Eve](persona_eve.md)
+  - [Ruprecht](persona_ruprecht.md)
 - Positions:
-  - [Dorfrichter](richter.md)
-  - [Gerichtsschreiber](schreiber.md)
-  - [Gerichtsrat](gerichtsrat.md)
-  - [Klägerin](klaeger.md)
-  - [Zeuge](zeuge.md)
+  - [Dorfrichter](position_richter.md)
+  - [Gerichtsschreiber](position_schreiber.md)
+  - [Gerichtsrat](position_gerichtsrat.md)
+  - [Klägerin](position_klaeger.md)
+  - [Zeuge](position_zeuge.md)
 - Places:
-  - [Gerichtsstube](gerichtsstube.md)
+  - [Gerichtsstube](place_gerichtsstube.md)
 - Pieces:
-  - [Der Krug](krug.md)
+  - [Der Krug](piece_krug.md)
 - Plots:
-  - [Die Gerichtsverhandlung](gerichtsverhandlung.md)
+  - [Die Gerichtsverhandlung](plot_gerichtsverhandlung.md)
 - Plans:
-  - [Die Vertuschung](vertuschung.md)
+  - [Die Vertuschung](plan_vertuschung.md)
 - Processes:
-  - [Das Verhör](verhoer.md)
+  - [Das Verhör](process_verhoer.md)
 
 ## Triggers
 
