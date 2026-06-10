@@ -17,7 +17,8 @@ The current status of the Kleist productions within this house:
 - [x] **Penthesilea** (Tragedy) - Staged
 - [x] **Die Familie Schroffenstein** (Tragedy) - Staged
 - [x] **Michael Kohlhaas** (Novella) - Staged
-- [ ] **Amphitryon** (Comedy) - Planned
+- [x] **Amphitryon** (Comedy) - Staged
+- [ ] **Robert Guiskard** (Fragment) - Planned
 
 ## Origin
 
