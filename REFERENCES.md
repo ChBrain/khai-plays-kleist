@@ -19,7 +19,8 @@ The current status of the Kleist productions within this house:
 - [x] **Michael Kohlhaas** (Novella) - Staged
 - [x] **Amphitryon** (Comedy) - Staged
 - [x] **Robert Guiskard** (Fragment) - Staged
-- [ ] **Die Marquise von O...** (Novella) - Planned
+- [x] **Die Marquise von O...** (Novella) - Staged
+- [ ] **Das Erdbeben in Chili** (Novella) - Planned
 
 ## Origin
 
