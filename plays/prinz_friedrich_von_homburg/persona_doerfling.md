@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-[Feldmarschall](feldmarschall_position.md)
+[Feldmarschall](position_feldmarschall.md)
 
 ## Owner
 

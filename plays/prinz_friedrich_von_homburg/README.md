@@ -13,16 +13,16 @@ Dieses Dokument dient als Eintritt für die Stufe des Stücks, das sich um den s
 
 - **[Playbook](play_prinz_friedrich_von_homburg.md)**: Die Definition und Struktur des Stücks nach ENACTS.
 - **Charaktere & Rollen**:
-  - [Prinz Friedrich von Homburg](homburg.md) (Reitergeneral)
-  - [Kurfürst Friedrich Wilhelm](kurfuerst.md) (Souverän)
-  - [Prinzessin Natalie von Oranien](natalie.md) (Mittlerin)
-  - [Graf Hohenzollern](hohenzollern.md) (Ratgeber)
-  - [Obrist Kottwitz](kottwitz.md) (Obrist)
-  - [Feldmarschall Dörfling](doerfling.md) (Feldmarschall)
+  - [Prinz Friedrich von Homburg](persona_homburg.md) (Reitergeneral)
+  - [Kurfürst Friedrich Wilhelm](persona_kurfuerst.md) (Souverän)
+  - [Prinzessin Natalie von Oranien](persona_natalie.md) (Mittlerin)
+  - [Graf Hohenzollern](persona_hohenzollern.md) (Ratgeber)
+  - [Obrist Kottwitz](persona_kottwitz.md) (Obrist)
+  - [Feldmarschall Dörfling](persona_doerfling.md) (Feldmarschall)
 - **Die Bühne**:
-  - [Fehrbellin](fehrbellin.md): Der Schauplatz des Gartens und des Schlachtfelds.
-  - [Der Handschuh](handschuh.md): Das traumhafte Pfand des Schlafwandelns.
+  - [Fehrbellin](place_fehrbellin.md): Der Schauplatz des Gartens und des Schlachtfelds.
+  - [Der Handschuh](piece_handschuh.md): Das traumhafte Pfand des Schlafwandelns.
 - **Der Prozess**:
-  - [Das Militärgesetz](militaergesetz.md): Das unerbittliche Regelwerk des preußischen Staates.
-  - [Das Schlafwandeln](schlafwandeln.md): Die Brücke zwischen Traum und Wirklichkeit.
-  - [Das Todesurteil](todesurteil.md): Der Plan des Kurfürsten zur Erziehung des Prinzen.
+  - [Das Militärgesetz](plot_militaergesetz.md): Das unerbittliche Regelwerk des preußischen Staates.
+  - [Das Schlafwandeln](process_schlafwandeln.md): Die Brücke zwischen Traum und Wirklichkeit.
+  - [Das Todesurteil](plan_todesurteil.md): Der Plan des Kurfürsten zur Erziehung des Prinzen.

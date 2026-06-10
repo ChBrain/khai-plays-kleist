@@ -25,7 +25,7 @@ Das Schloss und das Schlachtfeld von Fehrbellin - wo der nächtliche, silbern gl
 
 ## Holds
 
-[Der Handschuh](handschuh.md)
+[Der Handschuh](piece_handschuh.md)
 
 ## Offers
 

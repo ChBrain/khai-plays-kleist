@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-[Reitergeneral](reitergeneral.md)
+[Reitergeneral](position_reitergeneral.md)
 
 ## Owner
 

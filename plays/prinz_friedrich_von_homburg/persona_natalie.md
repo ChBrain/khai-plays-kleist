@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-[Mittlerin](mittlerin.md)
+[Mittlerin](position_mittlerin.md)
 
 ## Owner
 

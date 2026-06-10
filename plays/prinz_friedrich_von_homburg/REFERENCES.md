@@ -20,5 +20,5 @@ Projekt Gutenberg E-Book 6653, basierend auf der Erstausgabe von 1811 und dem hi
 ## Encoding
 
 - **das Spiel ([play_prinz_friedrich_von_homburg.md](play_prinz_friedrich_von_homburg.md))**: Die Definition nach ENACTS.
-- **die Bühne ([fehrbellin.md](fehrbellin.md))**: Der nächtliche Garten und das Schlachtfeld von Fehrbellin.
-- **die Akteure**: General [Homburg](homburg.md) und der Kurfürst [Kurfuerst](kurfuerst.md) in ihren jeweiligen Funktionen.
+- **die Bühne ([fehrbellin.md](place_fehrbellin.md))**: Der nächtliche Garten und das Schlachtfeld von Fehrbellin.
+- **die Akteure**: General [Homburg](persona_homburg.md) und der Kurfürst [Kurfuerst](persona_kurfuerst.md) in ihren jeweiligen Funktionen.

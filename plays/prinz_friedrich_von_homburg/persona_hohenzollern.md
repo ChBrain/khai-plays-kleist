@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-[Ratgeber](ratgeber.md)
+[Ratgeber](position_ratgeber.md)
 
 ## Owner
 

@@ -18,7 +18,7 @@ state
 
 ## Owner
 
-- Owner: [Kurfürst Friedrich Wilhelm](kurfuerst.md)
+- Owner: [Kurfürst Friedrich Wilhelm](persona_kurfuerst.md)
 
 ## Direction
 

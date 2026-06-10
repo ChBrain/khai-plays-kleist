@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-[Souverän](souveraen.md)
+[Souverän](position_souveraen.md)
 
 ## Owner
 

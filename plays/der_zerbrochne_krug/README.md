@@ -13,16 +13,16 @@ Dieses Dokument dient als Eintritt für die Stufe des Stücks, das sich um Richt
 
 - **[Playbook](play_der_zerbrochne_krug.md)**: Die Definition und Struktur des Stücks nach ENACTS.
 - **Charaktere & Rollen**:
-  - [Richter Adam](adam.md) (Dorfrichter)
-  - [Schreiber Licht](licht.md) (Gerichtsschreiber)
-  - [Gerichtsrat Walter](walter.md) (Gerichtsrat)
-  - [Frau Marthe Rull](marthe.md) (Klägerin)
-  - [Eve](eve.md) (Zeuge)
-  - [Ruprecht](ruprecht.md) (Zeuge)
+  - [Richter Adam](persona_adam.md) (Dorfrichter)
+  - [Schreiber Licht](persona_licht.md) (Gerichtsschreiber)
+  - [Gerichtsrat Walter](persona_walter.md) (Gerichtsrat)
+  - [Frau Marthe Rull](persona_marthe.md) (Klägerin)
+  - [Eve](persona_eve.md) (Zeuge)
+  - [Ruprecht](persona_ruprecht.md) (Zeuge)
 - **Die Bühne**:
-  - [Gerichtsstube](gerichtsstube.md): Der enge Raum des Huisumer Gerichts.
-  - [Der Krug](krug.md): Die zerbrochene Scherbe des Vertrauens.
+  - [Gerichtsstube](place_gerichtsstube.md): Der enge Raum des Huisumer Gerichts.
+  - [Der Krug](piece_krug.md): Die zerbrochene Scherbe des Vertrauens.
 - **Der Prozess**:
-  - [Die Gerichtsverhandlung](gerichtsverhandlung.md): Das Aufeinanderprallen von öffentlicher Aktion und geheimer Spannung.
-  - [Das Verhör](verhoer.md): Die Befragung der Beteiligten.
-  - [Die Vertuschung](vertuschung.md): Adams verzweifelter Plan zur Abwehr der Schande.
+  - [Die Gerichtsverhandlung](plot_gerichtsverhandlung.md): Das Aufeinanderprallen von öffentlicher Aktion und geheimer Spannung.
+  - [Das Verhör](process_verhoer.md): Die Befragung der Beteiligten.
+  - [Die Vertuschung](plan_vertuschung.md): Adams verzweifelter Plan zur Abwehr der Schande.

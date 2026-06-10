@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-[Obrist](obrist.md)
+[Obrist](position_obrist.md)
 
 ## Owner
 

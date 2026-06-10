@@ -26,29 +26,29 @@ Der Prinz von Homburg, träumend auf dem Schlachtfeld von Fehrbellin, missachtet
 ## Company
 
 - Personas:
-  - [Prinz Friedrich von Homburg](homburg.md)
-  - [Kurfürst Friedrich Wilhelm](kurfuerst.md)
-  - [Prinzessin Natalie von Oranien](natalie.md)
-  - [Graf Hohenzollern](hohenzollern.md)
-  - [Obrist Kottwitz](kottwitz.md)
-  - [Feldmarschall Dörfling](doerfling.md)
+  - [Prinz Friedrich von Homburg](persona_homburg.md)
+  - [Kurfürst Friedrich Wilhelm](persona_kurfuerst.md)
+  - [Prinzessin Natalie von Oranien](persona_natalie.md)
+  - [Graf Hohenzollern](persona_hohenzollern.md)
+  - [Obrist Kottwitz](persona_kottwitz.md)
+  - [Feldmarschall Dörfling](persona_doerfling.md)
 - Positions:
-  - [Reitergeneral](reitergeneral.md)
-  - [Souverän](souveraen.md)
-  - [Mittlerin](mittlerin.md)
-  - [Ratgeber](ratgeber.md)
-  - [Obrist](obrist.md)
-  - [Feldmarschall](feldmarschall_position.md)
+  - [Reitergeneral](position_reitergeneral.md)
+  - [Souverän](position_souveraen.md)
+  - [Mittlerin](position_mittlerin.md)
+  - [Ratgeber](position_ratgeber.md)
+  - [Obrist](position_obrist.md)
+  - [Feldmarschall](position_feldmarschall.md)
 - Places:
-  - [Fehrbellin](fehrbellin.md)
+  - [Fehrbellin](place_fehrbellin.md)
 - Pieces:
-  - [Der Handschuh](handschuh.md)
+  - [Der Handschuh](piece_handschuh.md)
 - Plots:
-  - [Das Militärgesetz](militaergesetz.md)
+  - [Das Militärgesetz](plot_militaergesetz.md)
 - Plans:
-  - [Das Todesurteil](todesurteil.md)
+  - [Das Todesurteil](plan_todesurteil.md)
 - Processes:
-  - [Das Schlafwandeln](schlafwandeln.md)
+  - [Das Schlafwandeln](process_schlafwandeln.md)
 
 ## Triggers
 

@@ -18,7 +18,7 @@ personal
 
 ## Owner
 
-- Owner: [Dorfrichter Adam](adam.md)
+- Owner: [Dorfrichter Adam](persona_adam.md)
 
 ## Direction
 

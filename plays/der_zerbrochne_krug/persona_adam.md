@@ -14,7 +14,7 @@ type: fictional
 
 ## Taxonomy
 
-[Dorfrichter](richter.md)
+[Dorfrichter](position_richter.md)
 
 ## Owner
 
