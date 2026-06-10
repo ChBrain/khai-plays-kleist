@@ -1,5 +1,5 @@
 ---
-updated: "2026-06-09"
+updated: "2026-06-10"
 ---
 
 # Kleist House: Reference
@@ -13,9 +13,9 @@ Staging the works of Heinrich von Kleist as **systemic systems**: modeling the m
 The current status of the Kleist productions within this house:
 
 - [/] **Der zerbrochne Krug** (Lustspiel) - Active (Under Review)
-- [ ] **Prinz Friedrich von Homburg** (Drama) - Planned
-- [ ] **Penthesilea** (Tragedy) - Planned
-- [ ] **Die Familie Schroffenstein** (Tragedy) - Planned
+- [x] **Prinz Friedrich von Homburg** (Drama) - Staged
+- [x] **Penthesilea** (Tragedy) - Staged
+- [x] **Die Familie Schroffenstein** (Tragedy) - Staged
 - [ ] **Michael Kohlhaas** (Novella) - Planned
 
 ## Origin
