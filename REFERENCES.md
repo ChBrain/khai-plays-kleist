@@ -18,7 +18,8 @@ The current status of the Kleist productions within this house:
 - [x] **Die Familie Schroffenstein** (Tragedy) - Staged
 - [x] **Michael Kohlhaas** (Novella) - Staged
 - [x] **Amphitryon** (Comedy) - Staged
-- [ ] **Robert Guiskard** (Fragment) - Planned
+- [x] **Robert Guiskard** (Fragment) - Staged
+- [ ] **Die Marquise von O...** (Novella) - Planned
 
 ## Origin
 
