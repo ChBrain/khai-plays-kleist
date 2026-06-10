@@ -32,6 +32,11 @@
       "id": "amphitryon",
       "title": "Amphitryon",
       "description": "Ein Lustspiel über göttlichen Identitätsdiebstahl und den Zusammenbruch der verlässlichen Selbsterkenntnis."
+    },
+    {
+      "id": "robert_guiskard",
+      "title": "Robert Guiskard",
+      "description": "Ein Trauerspiel-Fragment über Machtinszenierung und die Vertuschung einer Seuche im normannischen Heerlager."
     }
   ]
 }
