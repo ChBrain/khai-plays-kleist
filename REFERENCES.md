@@ -20,7 +20,8 @@ The current status of the Kleist productions within this house:
 - [x] **Amphitryon** (Comedy) - Staged
 - [x] **Robert Guiskard** (Fragment) - Staged
 - [x] **Die Marquise von O...** (Novella) - Staged
-- [ ] **Das Erdbeben in Chili** (Novella) - Planned
+- [x] **Das Erdbeben in Chili** (Novella) - Staged
+- [ ] **Die Verlobung in St. Domingo** (Novella) - Planned
 
 ## Origin
 
