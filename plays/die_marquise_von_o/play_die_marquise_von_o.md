@@ -21,6 +21,8 @@ Die Marquise von O...
 
 ## Arc
 
+Eine Erzählung über eine unerklärte Schwangerschaft während einer Ohnmacht und die Suche nach dem biologischen Vater.
+
 Die tugendhafte Witwe Julietta - die Marquise von O... - erfährt zu ihrem Schrecken, dass sie schwanger ist, ohne die Ursache zu kennen, woraufhin ihr Vater sie in ständischer Schande verstößt, sie sich auf ihr Landgut zurückzieht und mittels einer Zeitungsanzeige den unbekannten Vater auffordert, sich zu melden, woraufhin sich ihr vorgeblicher Retter Graf F... als Täter offenbart.
 
 ## Company

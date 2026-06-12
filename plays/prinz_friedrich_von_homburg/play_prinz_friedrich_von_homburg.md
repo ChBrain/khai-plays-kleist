@@ -21,6 +21,8 @@ Prinz Friedrich von Homburg
 
 ## Arc
 
+Ein Drama über den Widerstreit zwischen individuellem Gefühl und der unerbittlichen Ordnung des Kriegsgesetzes.
+
 Der Prinz von Homburg, träumend auf dem Schlachtfeld von Fehrbellin, missachtet in somnambuler Zerstreuung das ausdrückliche Kriegsgebot des Kurfürsten, führt die Reiterei vorzeitig zum Sieg und verfällt dafür dem unerbittlichen Todesurteil des Gesetzes, bis er durch die Anerkennung der Schuld und des Urteils seine innere Freiheit gewinnt.
 
 ## Company

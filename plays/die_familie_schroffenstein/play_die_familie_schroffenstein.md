@@ -21,6 +21,8 @@ Die Familie Schroffenstein
 
 ## Arc
 
+Ein Trauerspiel über eine verhängnisvolle Spirale des Misstrauens und der Rache zwischen zwei Linien einer Familie.
+
 Zwei verfeindete Linien der Familie Schroffenstein - Rossitz und Warwand -, gebunden durch einen unheilvollen Erbvertrag, geraten durch den ungeklärten Tod eines Kindes in eine unaufhaltsame Spirale aus Paranoia, Racheschwüren und tödlichen Missverständnissen, welche die Liebe des jungen Paares Ottokar und Agnes zunichtemacht und in einer beiderseitigen Katastrophe endet.
 
 ## Company

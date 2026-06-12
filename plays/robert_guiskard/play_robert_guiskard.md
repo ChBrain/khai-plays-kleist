@@ -21,6 +21,8 @@ Robert Guiskard
 
 ## Arc
 
+Ein Trauerspiel-Fragment über Machtinszenierung und die Vertuschung einer Seuche im normannischen Heerlager.
+
 Das normannische Heer lagert belagernd vor den Mauern von Konstantinopel, doch eine verheerende Seuche greift im Lager um sich, der auch der greise Herzog Robert Guiskard heimlich zum Opfer fällt, woraufhin er die Wahrheit über seine tödliche Infektion unter Mithilfe seines Sohnes Gerhard vertuschen und stoisch stärke demonstrieren muss, während sein Rivale Abund versucht, die Krankheit öffentlich zu enthüllen, um die Nachfolge an sich zu reißen.
 
 ## Company

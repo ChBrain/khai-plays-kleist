@@ -21,6 +21,8 @@ Amphitryon
 
 ## Arc
 
+Ein Lustspiel über göttlichen Identitätsdiebstahl und den Zusammenbruch der verlässlichen Selbsterkenntnis.
+
 Der thebanische Feldherr Amphitryon kehrt siegreich aus dem Krieg heim, muss jedoch feststellen, dass der Gott Jupiter seine Gestalt angenommen hat, um Alkmene, Amphitryons Gemahlin, in Liebeslust zu empfangen, während Merkur den treuen Diener Sosias durch physischen Zwang und vollkommene Nachahmung um seinen Namen und seine Identität bringt, was eine existenzielle Krise des Erkennens und eine Spaltung zwischen äußerem Anschein und innerem Gefühl auslöst.
 
 ## Company
