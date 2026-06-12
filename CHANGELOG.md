@@ -1,5 +1,36 @@
 # @chbrain/khai-plays-kleist
 
+## 0.2.0
+
+### Minor Changes
+
+- 0bfd5f0: Stage Heinrich von Kleist's Lustspiel _Amphitryon_ (1807) as a complete systemic model, establishing the play definition, 6 personas, 6 positions, 1 place, 1 piece, 1 plot, 1 plan, and 1 process.
+- 75611e0: Stage Heinrich von Kleist's novella _Das Erdbeben in Chili_ (1807) as a complete systemic model, establishing the play definition, 6 personas, 6 positions, 1 place, 1 piece, 1 plot, 1 plan, and 1 process.
+- 10fed78: Stage Heinrich von Kleist's tragedy _Die Familie Schroffenstein_ (The Schroffenstein Family) as a complete systemic model, establishing the play definition, 6 personas, 6 positions, 1 place, 1 piece, 1 plot, 1 plan, and 1 process.
+- 88afe7d: Stage Heinrich von Kleist's novella _Die Marquise von O..._ (1808) as a complete systemic model, establishing the play definition, 6 personas, 6 positions, 1 place, 1 piece, 1 plot, 1 plan, and 1 process.
+- 86ce2b7: Stage Heinrich von Kleist's novella _Michael Kohlhaas_ (1810) as a complete systemic model, establishing the play definition, 6 personas, 6 positions, 1 place, 1 piece, 1 plot, 1 plan, and 1 process.
+- c1f9e5d: Stage Heinrich von Kleist's tragedy _Penthesilea_ as a complete systemic model, establishing the play definition, 6 personas, 6 positions, 1 place, 1 piece, 1 plot, 1 plan, and 1 process.
+- 07bce75: Stage Heinrich von Kleist's celebrated drama _Prinz Friedrich von Homburg_ (The Prince of Homburg) as a complete systemic model, establishing the play definition, 6 personas, 6 positions, 1 place, 1 piece, 1 plot, 1 plan, and 1 process.
+- 70c7af5: Stage Heinrich von Kleist's tragedy fragment _Robert Guiskard_ (1808) as a complete systemic model, establishing the play definition, 6 personas, 6 positions, 1 place, 1 piece, 1 plot, 1 plan, and 1 process.
+
+### Patch Changes
+
+- 9f5cdad: Bump the `@chbrain/*` dev dependencies to the latest published canon:
+  `khai-arch` 0.1.14, `khai-review` 0.1.3, `khai-tests` 0.1.17. The house
+  conforms against the updated canon (tests green).
+- 3b0a035: Rename the CI conformance job from `test` to `khai-tests`, the tool it runs,
+  matching the `khai-guard` job's naming and the khai-stage blueprint. Branch
+  protection must require the `khai-tests` check instead of `test` once this
+  lands.
+- 33566bf: Record resolution of management order 260610_1. Marks the order for staging Prinz Friedrich von Homburg as closed and all its targets as completed.
+- 33997b5: Re-declare play content license under CC-BY-NC-SA-4.0 for all staged plays: Der zerbrochne Krug, Prinz Friedrich von Homburg, Penthesilea, and Die Familie Schroffenstein.
+- 26735c6: Update root-level `REFERENCES.md` staging status to mark _Amphitryon_ as staged and add _Robert Guiskard_ as planned.
+- 47bb52a: Update root-level `REFERENCES.md` staging status to mark _Das Erdbeben in Chili_ as staged and add _Die Verlobung in St. Domingo_ as planned.
+- 50d6fdd: Update root-level `REFERENCES.md` staging status to mark _Robert Guiskard_ as staged and add _Die Marquise von O..._ as planned.
+- 8dfc416: Update root-level `REFERENCES.md` staging status to mark _Michael Kohlhaas_ as staged and add _Amphitryon_ as planned.
+- 5791bfa: Update root-level `REFERENCES.md` staging status to mark _Die Marquise von O..._ as staged and add _Das Erdbeben in Chili_ as planned.
+- d89a71b: Update root-level `REFERENCES.md` with the staging status of the completed Kleist plays: _Prinz Friedrich von Homburg_, _Penthesilea_, and _Die Familie Schroffenstein_.
+
 ## 0.1.0
 
 ### Minor Changes
