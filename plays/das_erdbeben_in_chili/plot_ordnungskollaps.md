@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-Die repressive Kolonialstadt Santiago de Chili im Juni 1647 im Moment des großen Erdbebens, das die Fundamente der menschlichen Ordnung erschüttert.
+Die repressive Kolonialstadt [Santiago de Chili](place_santiago.md) im Juni 1647 im Moment des großen Erdbebens, das die Fundamente der menschlichen Ordnung erschüttert.
 
 ## Action
 

@@ -25,7 +25,7 @@ Das normannische Heerlager vor Konstantinopel, zerrissen zwischen der Furcht vor
 
 ## Action
 
-Der Plot entfaltet sich von der stummen Belagerung des herzoglichen Zelts durch die Pestkranken über die erbitterten verbalen Duelle zwischen Gerhard und Abund vor den Wachen bis zur dramatischen öffentlichen Demonstration des Herzogs, der vor das Volk tritt, um die Ordnung gewaltsam aufrechtzuerhalten.
+Der Plot entfaltet sich von der stummen Belagerung des herzoglichen Zelts durch die Pestkranken über die erbitterten verbalen Duelle zwischen [Gerhard](persona_gerhard.md) und [Abund](persona_abund.md) vor den Wachen bis zur dramatischen öffentlichen Demonstration des Herzogs [Robert Guiskard](persona_guiskard.md), der vor das Volk tritt, um die Ordnung gewaltsam aufrechtzuerhalten.
 
 ## Stage
 

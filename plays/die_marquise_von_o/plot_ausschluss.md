@@ -25,7 +25,7 @@ Die Zitadelle von M... und das einsame Landgut V... im Norden Italiens während 
 
 ## Action
 
-Der Plot entfaltet sich von der stürmischen Eroberung der Zitadelle über die unaufhaltsame ständische Verstoßung Juliettas durch den Obristen bis zur List der Mutter auf dem Landgut und der schockierenden Auflösung des Grafen als Vater in der städtischen Wohnung.
+Der Plot entfaltet sich von der stürmischen Eroberung der Zitadelle über die unaufhaltsame ständische Verstoßung [Juliettas](persona_marquise.md) durch den [Obristen](persona_obrist.md) bis zur List der [Mutter](persona_obristin.md) auf dem Landgut und der schockierenden Auflösung des [Grafen](persona_graf.md) als Vater in der städtischen Wohnung.
 
 ## Stage
 

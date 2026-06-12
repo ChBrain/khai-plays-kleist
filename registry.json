@@ -1,22 +1,22 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-kleist",
-  "version": "0.0.0",
+  "version": "0.9.0",
   "plays": [
+    {
+      "id": "amphitryon",
+      "title": "Amphitryon",
+      "description": "Ein Lustspiel über göttlichen Identitätsdiebstahl und den Zusammenbruch der verlässlichen Selbsterkenntnis."
+    },
+    {
+      "id": "das_erdbeben_in_chili",
+      "title": "Das Erdbeben in Chili",
+      "description": "Eine Erzählung über den Kollaps ständischer Gesetze durch ein Erdbeben und die gewaltsame Resynchronisation des Mobs."
+    },
     {
       "id": "der_zerbrochne_krug",
       "title": "Der zerbrochne Krug",
       "description": "Ein Lustspiel über Richter Adam, der einen Gerichtsprozess über eine Tat leitet, die er selbst begangen hat."
-    },
-    {
-      "id": "prinz_friedrich_von_homburg",
-      "title": "Prinz Friedrich von Homburg",
-      "description": "Ein Drama über den Widerstreit zwischen individuellem Gefühl und der unerbittlichen Ordnung des Kriegsgesetzes."
-    },
-    {
-      "id": "penthesilea",
-      "title": "Penthesilea",
-      "description": "Eine Tragödie über den tödlichen Konflikt zwischen dem Gesetz der Amazonen und dem absoluten Begehren."
     },
     {
       "id": "die_familie_schroffenstein",
@@ -24,29 +24,29 @@
       "description": "Ein Trauerspiel über eine verhängnisvolle Spirale des Misstrauens und der Rache zwischen zwei Linien einer Familie."
     },
     {
-      "id": "michael_kohlhaas",
-      "title": "Michael Kohlhaas",
-      "description": "Die tragische Eskalation eines Rechtssuchers, dessen unbedingter Gerechtigkeitssinn in verheerende Gewalt umschlägt."
-    },
-    {
-      "id": "amphitryon",
-      "title": "Amphitryon",
-      "description": "Ein Lustspiel über göttlichen Identitätsdiebstahl und den Zusammenbruch der verlässlichen Selbsterkenntnis."
-    },
-    {
-      "id": "robert_guiskard",
-      "title": "Robert Guiskard",
-      "description": "Ein Trauerspiel-Fragment über Machtinszenierung und die Vertuschung einer Seuche im normannischen Heerlager."
-    },
-    {
       "id": "die_marquise_von_o",
       "title": "Die Marquise von O...",
       "description": "Eine Erzählung über eine unerklärte Schwangerschaft während einer Ohnmacht und die Suche nach dem biologischen Vater."
     },
     {
-      "id": "das_erdbeben_in_chili",
-      "title": "Das Erdbeben in Chili",
-      "description": "Eine Erzählung über den Kollaps ständischer Gesetze durch ein Erdbeben und die gewaltsame Resynchronisation des Mobs."
+      "id": "michael_kohlhaas",
+      "title": "Michael Kohlhaas",
+      "description": "Die tragische Eskalation eines Rechtssuchers, dessen unbedingter Gerechtigkeitssinn in verheerende Gewalt umschlägt."
+    },
+    {
+      "id": "penthesilea",
+      "title": "Penthesilea",
+      "description": "Eine Tragödie über den tödlichen Konflikt zwischen dem Gesetz der Amazonen und dem absoluten Begehren."
+    },
+    {
+      "id": "prinz_friedrich_von_homburg",
+      "title": "Prinz Friedrich von Homburg",
+      "description": "Ein Drama über den Widerstreit zwischen individuellem Gefühl und der unerbittlichen Ordnung des Kriegsgesetzes."
+    },
+    {
+      "id": "robert_guiskard",
+      "title": "Robert Guiskard",
+      "description": "Ein Trauerspiel-Fragment über Machtinszenierung und die Vertuschung einer Seuche im normannischen Heerlager."
     }
   ]
 }

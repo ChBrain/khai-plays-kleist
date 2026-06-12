@@ -1,6 +1,6 @@
 {
   "name": "@chbrain/khai-plays-kleist",
-  "version": "0.2.0",
+  "version": "0.9.0",
   "description": "The fault-lines of Heinrich von Kleist: broken trust, somnambulism, sudden violence, and the marionette's impossible grace.",
   "type": "module",
   "license": "SEE LICENSE IN LICENSE and LICENSE-CODE",
@@ -30,7 +30,7 @@
     "test": "vitest run",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
-    "version": "changeset version",
+    "version": "changeset version && khai-tests registry build",
     "release": "changeset publish"
   },
   "devDependencies": {
@@ -40,7 +40,7 @@
     "@chbrain/khai-language": "^0.1.3",
     "@chbrain/khai-pack": "^0.0.3",
     "@chbrain/khai-review": "^0.1.3",
-    "@chbrain/khai-tests": "^0.1.17",
+    "@chbrain/khai-tests": "^0.1.19",
     "husky": "^9.1.0",
     "prettier": "^3.8.4",
     "vitest": "^4.1.8"
