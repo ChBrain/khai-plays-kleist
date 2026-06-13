@@ -25,31 +25,33 @@ The current status of the Kleist productions within this house:
 - [x] **Über das Marionettentheater** (Essay) - Staged
 - [x] **Das Käthchen von Heilbronn** (Drama) - Staged
 - [x] **Die Hermannsschlacht** (Drama) - Staged
-- [ ] **Der Findling** (Novella) - Planned
+- [x] **Der Findling** (Novella) - Staged
+- [ ] **Die heilige Cäcilie oder die Gewalt der Musik** (Eine Legende) - Planned
 
 ## Origin
 
 Kleist's dramas and novellas, historical archives, and cultural context.
 
-| Source      | Key Work / Event                      | Scope                                                                     |
-| :---------- | :------------------------------------ | :------------------------------------------------------------------------ |
-| **Kleist**  | _Der zerbrochne Krug_ (1811)          | Dorfrichter Adam trying his own crime in a Huisum courtroom.              |
-|             | _Prinz Friedrich von Homburg_ (1811)  | Somnambulism and disobedience colliding with military law.                |
-|             | _Penthesilea_ (1808)                  | Amazon law vs. Achilles in battle.                                        |
-|             | _Die Familie Schroffenstein_ (1803)   | A feedback loop of inheritance-driven suspicion and war.                  |
-|             | _Amphitryon_ (1807)                   | Divine identity theft causing cryptographic self-identity failure.        |
-|             | _Robert Guiskard_ (1808)              | A leader concealing critical infection to preserve power.                 |
-|             | _Michael Kohlhaas_ (1810)             | Vigilante escalation for absolute justice over two horses.                |
-|             | _Die Marquise von O..._ (1808)        | Unrecorded state transition during a somnambulistic fit.                  |
-|             | _Das Erdbeben in Chili_ (1807)        | Sudden social reset and violent re-imposition of constraints.             |
-|             | _Die Verlobung in St. Domingo_ (1811) | A trust dilemma under threat of revolution and race war.                  |
-|             | _Über das Marionettentheater_ (1810)  | Mechanical grace vs. human self-consciousness.                            |
-|             | _Das Käthchen von Heilbronn_ (1810)   | Somnambulism and dream-driven destiny overcoming feudal barriers.         |
-|             | _Die Hermannsschlacht_ (1808)         | Total patriotic warfare and deceptive alliances in Teutoburg.             |
-|             | _Der Findling_ (1811)                 | Parental betrayal, corrupted adoption, and the collapse of familial duty. |
-| **History** | _The Kant Crisis_ (1801)              | Invalidation of teleology due to cognitive sensory filters.               |
-|             | _The Wannsee Pact_ (1811)             | Synchronized termination protocol of Kleist and Henriette Vogel.          |
-|             | _Recovery of the Nachlass_ (1821)     | Ludwig Tieck's restoration of fragmented manuscripts.                     |
+| Source      | Key Work / Event                                       | Scope                                                                                         |
+| :---------- | :----------------------------------------------------- | :-------------------------------------------------------------------------------------------- |
+| **Kleist**  | _Der zerbrochne Krug_ (1811)                           | Dorfrichter Adam trying his own crime in a Huisum courtroom.                                  |
+|             | _Prinz Friedrich von Homburg_ (1811)                   | Somnambulism and disobedience colliding with military law.                                    |
+|             | _Penthesilea_ (1808)                                   | Amazon law vs. Achilles in battle.                                                            |
+|             | _Die Familie Schroffenstein_ (1803)                    | A feedback loop of inheritance-driven suspicion and war.                                      |
+|             | _Amphitryon_ (1807)                                    | Divine identity theft causing cryptographic self-identity failure.                            |
+|             | _Robert Guiskard_ (1808)                               | A leader concealing critical infection to preserve power.                                     |
+|             | _Michael Kohlhaas_ (1810)                              | Vigilante escalation for absolute justice over two horses.                                    |
+|             | _Die Marquise von O..._ (1808)                         | Unrecorded state transition during a somnambulistic fit.                                      |
+|             | _Das Erdbeben in Chili_ (1807)                         | Sudden social reset and violent re-imposition of constraints.                                 |
+|             | _Die Verlobung in St. Domingo_ (1811)                  | A trust dilemma under threat of revolution and race war.                                      |
+|             | _Über das Marionettentheater_ (1810)                   | Mechanical grace vs. human self-consciousness.                                                |
+|             | _Das Käthchen von Heilbronn_ (1810)                    | Somnambulism and dream-driven destiny overcoming feudal barriers.                             |
+|             | _Die Hermannsschlacht_ (1808)                          | Total patriotic warfare and deceptive alliances in Teutoburg.                                 |
+|             | _Der Findling_ (1811)                                  | Parental betrayal, corrupted adoption, and the collapse of familial duty.                     |
+|             | _Die heilige Cäcilie oder die Gewalt der Musik_ (1810) | A musical miracle pacifies iconoclastic zealots, inducing a state of perpetual religious awe. |
+| **History** | _The Kant Crisis_ (1801)                               | Invalidation of teleology due to cognitive sensory filters.                                   |
+|             | _The Wannsee Pact_ (1811)                              | Synchronized termination protocol of Kleist and Henriette Vogel.                              |
+|             | _Recovery of the Nachlass_ (1821)                      | Ludwig Tieck's restoration of fragmented manuscripts.                                         |
 
 ## Restrictions
 
