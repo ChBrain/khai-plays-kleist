@@ -21,7 +21,8 @@ The current status of the Kleist productions within this house:
 - [x] **Robert Guiskard** (Fragment) - Staged
 - [x] **Die Marquise von O...** (Novella) - Staged
 - [x] **Das Erdbeben in Chili** (Novella) - Staged
-- [ ] **Die Verlobung in St. Domingo** (Novella) - Planned
+- [x] **Die Verlobung in St. Domingo** (Novella) - Staged
+- [ ] **Über das Marionettentheater** (Essay) - Planned
 
 ## Origin
 
