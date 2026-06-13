@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-kleist",
-  "version": "0.10.0",
+  "version": "0.11.0",
   "plays": [
     {
       "id": "amphitryon",
@@ -52,6 +52,11 @@
       "id": "robert_guiskard",
       "title": "Robert Guiskard",
       "description": "Ein Trauerspiel-Fragment über Machtinszenierung und die Vertuschung einer Seuche im normannischen Heerlager."
+    },
+    {
+      "id": "ueber_das_marionettentheater",
+      "title": "Über das Marionettentheater",
+      "description": "Ein Dialog über mechanische Anmut, menschliches Bewusstsein und den Verlust der Unschuld nach dem Sündenfall."
     }
   ]
 }
