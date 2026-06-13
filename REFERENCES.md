@@ -28,7 +28,7 @@ The current status of the Kleist productions within this house:
 - [x] **Der Findling** (Novella) - Staged
 - [x] **Die heilige Cäcilie oder die Gewalt der Musik** (Eine Legende) - Staged
 - [x] **Das Bettelweib von Locarno** (Novella) - Staged
-- [ ] **Über die allmähliche Verfertigung der Gedanken beim Reden** (Essay) - Planned
+- [x] **Über die allmähliche Verfertigung der Gedanken beim Reden** (Essay) - Staged
 
 ## Origin
 
