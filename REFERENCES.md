@@ -1,5 +1,5 @@
 ---
-updated: "2026-06-10"
+updated: "2026-06-13"
 ---
 
 # Kleist House: Reference
@@ -22,7 +22,7 @@ The current status of the Kleist productions within this house:
 - [x] **Die Marquise von O...** (Novella) - Staged
 - [x] **Das Erdbeben in Chili** (Novella) - Staged
 - [x] **Die Verlobung in St. Domingo** (Novella) - Staged
-- [ ] **Über das Marionettentheater** (Essay) - Planned
+- [x] **Über das Marionettentheater** (Essay) - Staged
 
 ## Origin
 
