@@ -1,8 +1,8 @@
 ---
 khai: persona
 title: "Ludwig Tieck"
-declared: "Ludwig Tieck"
 license: CC-BY-NC-SA-4.0
+language: english
 voice: "Romantic, ordering, custodial; a curator of the neglected dead, fond of the fragment"
 stamp:
   owner: KAI HACKS AI
