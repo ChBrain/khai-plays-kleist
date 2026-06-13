@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-kleist",
-  "version": "0.12.0",
+  "version": "0.13.0",
   "plays": [
     {
       "id": "amphitryon",
@@ -27,6 +27,11 @@
       "id": "die_familie_schroffenstein",
       "title": "Die Familie Schroffenstein",
       "description": "Ein Trauerspiel über eine verhängnisvolle Spirale des Misstrauens und der Rache zwischen zwei Linien einer Familie."
+    },
+    {
+      "id": "die_hermannsschlacht",
+      "title": "Die Hermannsschlacht",
+      "description": "Ein Drama über Hermanns listige Mobilisierung der germanischen Stämme zur Vernichtung der römischen Legionen."
     },
     {
       "id": "die_marquise_von_o",
