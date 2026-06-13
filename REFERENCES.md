@@ -23,6 +23,8 @@ The current status of the Kleist productions within this house:
 - [x] **Das Erdbeben in Chili** (Novella) - Staged
 - [x] **Die Verlobung in St. Domingo** (Novella) - Staged
 - [x] **Über das Marionettentheater** (Essay) - Staged
+- [x] **Das Käthchen von Heilbronn** (Drama) - Staged
+- [ ] **Die Hermannsschlacht** (Drama) - Planned
 
 ## Origin
 
@@ -41,6 +43,8 @@ Kleist's dramas and novellas, historical archives, and cultural context.
 |             | _Das Erdbeben in Chili_ (1807)        | Sudden social reset and violent re-imposition of constraints.      |
 |             | _Die Verlobung in St. Domingo_ (1811) | A trust dilemma under threat of revolution and race war.           |
 |             | _Über das Marionettentheater_ (1810)  | Mechanical grace vs. human self-consciousness.                     |
+|             | _Das Käthchen von Heilbronn_ (1810)   | Somnambulism and dream-driven destiny overcoming feudal barriers.  |
+|             | _Die Hermannsschlacht_ (1808)         | Total patriotic warfare and deceptive alliances in Teutoburg.      |
 | **History** | _The Kant Crisis_ (1801)              | Invalidation of teleology due to cognitive sensory filters.        |
 |             | _The Wannsee Pact_ (1811)             | Synchronized termination protocol of Kleist and Henriette Vogel.   |
 |             | _Recovery of the Nachlass_ (1821)     | Ludwig Tieck's restoration of fragmented manuscripts.              |
