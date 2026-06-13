@@ -33,4 +33,4 @@ Die Amazonenkriegerinnen im Schlachtenlärm, angefeuert von der Priesterschaft D
 
 ## Tension
 
-Die absolute Unvereinbarkeit des unpersönlichen Gesetzes - das die Identität des Partners auslöscht - mit Penthesileas Wunsch, Achilles als Individuum zu gewinnen.
+Die absolute Unvereinbarkeit des unpersönlichen Gesetzes - das die Identität des Partners auslöscht - mit [Penthesilea](persona_penthesilea.md)s Wunsch, [Achilles](persona_achilles.md) als Individuum zu gewinnen.

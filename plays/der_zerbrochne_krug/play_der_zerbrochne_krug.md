@@ -21,6 +21,8 @@ Der zerbrochne Krug
 
 ## Arc
 
+Ein Lustspiel über Richter Adam, der einen Gerichtsprozess über eine Tat leitet, die er selbst begangen hat.
+
 Der Richter Adam, gezwungen vom herabsteigenden Gerichtsrat Walter, hält Gericht über eine ruchlose Tat - das Zerbrechen eines Kruges in Eves Kammer -, die er indessen selbst im Dunkel der Nacht begangen hat, so dass jede gerichtliche Untersuchung zu einer vertrackten Selbsteinkreisung gerät.
 
 ## Company

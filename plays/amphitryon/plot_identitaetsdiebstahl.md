@@ -25,7 +25,7 @@ Der nächtliche Palastvorhof in Theben, über dem die olympischen Götter ein ve
 
 ## Action
 
-Der Plot beginnt mit Merkurs Sperrung des Tors gegen Sosias, entfaltet sich über Alkmenes Verwirrung beim Eintreffen des echten Amphitryon und gipfelt in der öffentlichen Gegenüberstellung der beiden Feldherren vor den thebanischen Offizieren, bei der alle Zeugen den Gott für den wahren Amphitryon halten.
+Der Plot beginnt mit [Merkur](persona_merkur.md)s Sperrung des Tors gegen [Sosias](persona_sosias.md), entfaltet sich über [Alkmene](persona_alkmene.md)s Verwirrung beim Eintreffen des echten [Amphitryon](persona_amphitryon.md) und gipfelt in der öffentlichen Gegenüberstellung der beiden Feldherren vor den thebanischen Offizieren, bei der alle Zeugen den Gott für den wahren Amphitryon halten.
 
 ## Stage
 

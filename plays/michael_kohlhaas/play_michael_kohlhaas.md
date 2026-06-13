@@ -21,6 +21,8 @@ Michael Kohlhaas
 
 ## Arc
 
+Die tragische Eskalation eines Rechtssuchers, dessen unbedingter Gerechtigkeitssinn in verheerende Gewalt umschlägt.
+
 Ein ehrlicher und wohlhabender Rosshändler - Michael Kohlhaas -, dessen Pferde an einer Landesgrenze willkürlich misshandelt und einbehalten werden, gerät durch Korruption und familiäre Seilschaften im sächsischen Rechtssystem in eine Sackgasse der Verweigerung, woraufhin er den Staat mit einer privaten Fehde und Brandschatzung überzieht, um die Wiederherstellung seines Rechts zu erzwingen, was ihn schließlich das Leben kostet.
 
 ## Company

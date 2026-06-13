@@ -21,6 +21,8 @@ Penthesilea
 
 ## Arc
 
+Eine Tragödie über den tödlichen Konflikt zwischen dem Gesetz der Amazonen und dem absoluten Begehren.
+
 Die Amazonenkönigin Penthesilea zieht in den Kampf vor Troja, um nach heiligem Gesetz einen Gatten auf dem Schlachtfeld zu erbeuten - verfällt dabei in leidenschaftliches Begehren zu dem griechischen Helden Achilles -, und gerät in einen tragischen Konflikt zwischen staatlicher Ordnung und absolutem Gefühl, der in einem mörderischen Rausch und dem gegenseitigen Verderben gipfelt.
 
 ## Company

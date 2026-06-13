@@ -25,11 +25,11 @@ Ein heller Sommertag vor der Schlacht bei Fehrbellin, an dem die Generäle Brand
 
 ## Action
 
-Homburg stürmt entgegen der strikten Order, das Angriffssignal abzuwarten, mit der Reiterei voran, erzwingt den Sieg über die Schweden und verfällt damit der Anklage wegen Ungehorsams vor dem Kriegsgericht.
+[Homburg](persona_homburg.md) stürmt entgegen der strikten Order, das Angriffssignal abzuwarten, mit der Reiterei voran, erzwingt den Sieg über die Schweden und verfällt damit der Anklage wegen Ungehorsams vor dem Kriegsgericht.
 
 ## Stage
 
-Der Prinz zu Pferd, flankiert vom treuen, aber zögernden Obristen Kottwitz und dem ratenden Hohenzollern, umgeben vom Lärm der Schlacht und dem Pulverdampf der Kanonen.
+Der Prinz zu Pferd, flankiert vom treuen, aber zögernden Obristen [Kottwitz](persona_kottwitz.md) und dem ratenden [Hohenzollern](persona_hohenzollern.md), umgeben vom Lärm der Schlacht und dem Pulverdampf der Kanonen.
 
 ## Tension
 

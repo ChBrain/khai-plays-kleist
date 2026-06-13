@@ -25,7 +25,7 @@ Das schwäbische Gebirgsland im Mittelalter, über dem der Verdacht des Kindsmor
 
 ## Action
 
-Die Fehde entfaltet sich von der anfänglichen Trauer über Peter zu bewaffneten Überfällen auf Rossitzer und Warwandsche Boten, gipfelt im Lynchen des Jeronimus und dem Auszug der Väter in die Berge.
+Die Fehde entfaltet sich von der anfänglichen Trauer über Peter zu bewaffneten Überfällen auf Rossitzer und Warwandsche Boten, gipfelt im Lynchen des [Jeronimus](persona_jeronimus.md) und dem Auszug der Väter [Rupert](persona_rupert.md) und [Sylvester](persona_sylvester.md) in die Berge.
 
 ## Stage
 

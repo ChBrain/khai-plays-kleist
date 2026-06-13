@@ -25,7 +25,7 @@ Ein nebliger, regnerischer Herbstmorgen in Huisum; die Atmosphäre ist geladen m
 
 ## Action
 
-Das öffentliche Verhör, bei dem Frau Marthe Rull Gerechtigkeit für ihren Krug fordert, Ruprecht den nächtlichen Einbruch schildert und Richter Adam verzweifelt versucht, den Verdacht vom wahren Täter - sich selbst - abzulenken.
+Das öffentliche Verhör, bei dem [Frau Marthe Rull](persona_marthe.md) Gerechtigkeit für ihren [Krug](piece_krug.md) fordert, [Ruprecht](persona_ruprecht.md) den nächtlichen Einbruch schildert und [Richter Adam](persona_adam.md) verzweifelt versucht, den Verdacht vom wahren Täter - sich selbst - abzulenken.
 
 ## Stage
 

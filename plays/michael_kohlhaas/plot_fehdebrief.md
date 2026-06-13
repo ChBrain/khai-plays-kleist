@@ -25,7 +25,7 @@ Das Grenzgebiet zwischen Brandenburg und Sachsen im 16. Jahrhundert, überzogen 
 
 ## Action
 
-Der Plot beginnt mit Kohlhaas' erstem Fehdebrief gegen Wenzel von Tronka, gefolgt von der Erstürmung der Tronkenburg, dem Niedermetzeln der Besatzung und den Brandstiftungen in Dresden und Leipzig, während Kohlhaas' Schar zu einer Armee von Rebellen anwächst.
+Der Plot beginnt mit [Kohlhaas](persona_kohlhaas.md)' erstem Fehdebrief gegen [Wenzel von Tronka](persona_wenzel.md), gefolgt von der Erstürmung der [Tronkenburg](place_tronkenburg.md), dem Niedermetzeln der Besatzung und den Brandstiftungen in Dresden und Leipzig, während Kohlhaas' Schar zu einer Armee von Rebellen anwächst.
 
 ## Stage
 

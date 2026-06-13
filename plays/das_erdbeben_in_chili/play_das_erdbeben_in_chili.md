@@ -21,6 +21,8 @@ Das Erdbeben in Chili
 
 ## Arc
 
+Eine Erzählung über den Kollaps ständischer Gesetze durch ein Erdbeben und die gewaltsame Resynchronisation des Mobs.
+
 Die Liebenden Jeronimo und Josephe - verurteilt wegen unstandesgemäßer Liebe und eines außerehelichen Kindes - werden durch ein verheerendes Erdbeben in Santiago im Moment ihrer höchsten Todesnot (Josephe vor der Hinrichtung, Jeronimo vor der Selbsttötung) gerettet, woraufhin die ständischen und moralischen Schranken im Chaos kollabieren und eine Utopie des gegenseitigen Vertrauens im idyllischen Tal entsteht, welche jedoch beim Dankgottesdienst in der Dominikanerkirche durch eine fanatische Predigt und die blutige Gewalt des resynchronisierten Mobs vernichtet wird.
 
 ## Company
