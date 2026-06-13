@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-kleist",
-  "version": "0.16.0",
+  "version": "0.17.0",
   "plays": [
     {
       "id": "amphitryon",
@@ -82,6 +82,11 @@
       "id": "ueber_das_marionettentheater",
       "title": "Über das Marionettentheater",
       "description": "Ein Dialog über mechanische Anmut, menschliches Bewusstsein und den Verlust der Unschuld nach dem Sündenfall."
+    },
+    {
+      "id": "ueber_die_allmaehliche_verfertigung",
+      "title": "Über die allmähliche Verfertigung der Gedanken beim Reden",
+      "description": "Ein Dialogessay über die Entstehung klarer Gedanken während des aktiven Sprechvollzugs im Austausch mit einem Hörer."
     }
   ]
 }
