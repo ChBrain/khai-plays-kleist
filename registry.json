@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-kleist",
-  "version": "0.14.0",
+  "version": "0.15.0",
   "plays": [
     {
       "id": "amphitryon",
@@ -32,6 +32,11 @@
       "id": "die_familie_schroffenstein",
       "title": "Die Familie Schroffenstein",
       "description": "Ein Trauerspiel über eine verhängnisvolle Spirale des Misstrauens und der Rache zwischen zwei Linien einer Familie."
+    },
+    {
+      "id": "die_heilige_caecilie",
+      "title": "Die heilige Cäcilie oder die Gewalt der Musik",
+      "description": "Eine Legende über vier Bilderstürmer, die durch ein Orgelwunder in ewige religiöse Verzückung versetzt werden."
     },
     {
       "id": "die_hermannsschlacht",
