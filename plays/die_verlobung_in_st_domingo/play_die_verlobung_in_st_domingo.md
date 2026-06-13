@@ -21,6 +21,8 @@ Die Verlobung in St. Domingo
 
 ## Arc
 
+Eine Erzählung über das tragische Scheitern von Vertrauen und Liebe inmitten von Rassenkrieg und Revolution.
+
 Ein junger Schweizer Offizier auf der Flucht - Gustav -, sucht Schutz auf einer haitianischen Plantage, wo die junge Mestizin Toni und ihre Mutter Babekan als Lockvögel für weiße Flüchtlinge im Auftrag des Aufständischen Congo Hoango dienen, doch Gustav und Toni verlieben sich und gehen eine heimliche Verlobung ein, bis Hoango überraschend zurückkehrt und Toni Gustav zum Schein fesselt, um ihn vor dem Tod zu bewahren; Gustav missversteht jedoch ihre Tat als Verrat und erschießt Toni nach seiner Befreiung, woraufhin er die Wahrheit erfährt und sich selbst das Leben nimmt.
 
 ## Company

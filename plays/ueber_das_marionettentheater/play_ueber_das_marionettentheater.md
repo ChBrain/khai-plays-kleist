@@ -21,6 +21,8 @@ stamp:
 
 ## Arc
 
+Ein Dialog über mechanische Anmut, menschliches Bewusstsein und den Verlust der Unschuld nach dem Sündenfall.
+
 In einem öffentlichen Garten begegnet der Ich-Erzähler dem berühmten Tänzer Herr C. - mit welchem er ein Gespräch über die mechanische Anmut von Marionetten führt -, woraufhin sie die Gesetzmäßigkeiten von Schwerpunkt und Schwerkraft erörtern und anhand dreier Beispiele (des Jünglings, der vor dem Spiegel seine Anmut durch Reflexion verliert; des Fechtbären, der jeden Stoß durch reinen Instinkt pariert; und der Marionette, die schwerkraftlos tanzt) die These entwickeln, dass die Anmut aus dem menschlichen Körper weicht, sobald das Bewusstsein erwacht, und erst dann wiederkehrt, wenn die Erkenntnis durch ein Unendliches gegangen ist - wodurch sich das letzte Kapitel von der Geschichte der Welt öffnet.
 
 ## Company
