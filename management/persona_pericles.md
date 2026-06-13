@@ -1,8 +1,8 @@
 ---
 khai: persona
 title: "Pericles"
-declared: "Pericles"
 license: CC-BY-NC-SA-4.0
+language: english
 voice: "precise, unhurried; the long view; economy of word"
 stamp:
   owner: KAI HACKS AI
