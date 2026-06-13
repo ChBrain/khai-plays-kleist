@@ -1,12 +1,17 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-kleist",
-  "version": "0.15.0",
+  "version": "0.16.0",
   "plays": [
     {
       "id": "amphitryon",
       "title": "Amphitryon",
       "description": "Ein Lustspiel über göttlichen Identitätsdiebstahl und den Zusammenbruch der verlässlichen Selbsterkenntnis."
+    },
+    {
+      "id": "das_bettelweib_von_locarno",
+      "title": "Das Bettelweib von Locarno",
+      "description": "Ein Marquis verliert den Verstand, als eine von ihm getötete Bettlerin geisterhaft in sein Schloss zurückkehrt."
     },
     {
       "id": "das_erdbeben_in_chili",
