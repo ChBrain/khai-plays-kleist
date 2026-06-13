@@ -25,7 +25,7 @@ Die von Rassenkrieg und revolutionärem Terror zerrissene Insel Saint-Domingue i
 
 ## Action
 
-Der Plot entfaltet sich von Gustavs Ankunft im präparierten Lockvogel-Haus über das Entstehen einer reinen Liebesutopie in der Nacht der Verlobung bis hin zu Hoangos plötzlicher Rückkehr und der scheinbaren Fesselung Gustavs, welche die Paranoia reaktiviert und in der grausamen Tötung Tonis und Gustavs Selbsttötung mündet.
+Der Plot entfaltet sich von [Gustavs](persona_gustav.md) Ankunft im präparierten Lockvogel-Haus über das Entstehen einer reinen Liebesutopie in der Nacht der Verlobung bis hin zu [Hoangos](persona_hoango.md) plötzlicher Rückkehr und der scheinbaren Fesselung [Gustavs](persona_gustav.md), welche die Paranoia reaktiviert und in der grausamen Tötung [Tonis](persona_toni.md) und [Gustavs](persona_gustav.md) Selbsttötung mündet.
 
 ## Stage
 
