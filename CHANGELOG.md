@@ -1,5 +1,17 @@
 # @chbrain/khai-plays-kleist
 
+## 0.12.0
+
+### Minor Changes
+
+- 3252c88: Stage Heinrich von Kleist's novella _Die Verlobung in St. Domingo_ (1811) as a complete systemic model, establishing the play definition, 6 personas, 6 positions, 1 place, 1 piece, 1 plot, 1 plan, and 1 process.
+- 5227fa2: Stage Heinrich von Kleist's philosophical essay _Über das Marionettentheater_ (1810) as a complete systemic model, establishing the play definition, 6 personas, 6 positions, 1 place, 1 piece, 1 plot, 1 plan, and 1 process.
+
+### Patch Changes
+
+- c86d7ef: Sync @chbrain/khai-tests to ^0.1.19 and let the version script heal registry.json (`changeset version && khai-tests registry build`); cast each plot's company inline so the casting gate holds.
+- 07c39be: Update root-level `REFERENCES.md` staging status to mark _Die Verlobung in St. Domingo_ as staged and add _Über das Marionettentheater_ as planned.
+
 ## 0.2.0
 
 ### Minor Changes
