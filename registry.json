@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-kleist",
-  "version": "0.13.0",
+  "version": "0.14.0",
   "plays": [
     {
       "id": "amphitryon",
@@ -17,6 +17,11 @@
       "id": "das_kaethchen_von_heilbronn",
       "title": "Das Käthchen von Heilbronn",
       "description": "Ein großes historisches Ritterschauspiel über bedingungsloses Vertrauen, prophetische Träume und Somnambulismus."
+    },
+    {
+      "id": "der_findling",
+      "title": "Der Findling",
+      "description": "Eine Erzählung über Nicolo, der als Adoptivsohn durch Systemundankbarkeit die Familie und das Haus Piacentis ruiniert."
     },
     {
       "id": "der_zerbrochne_krug",
