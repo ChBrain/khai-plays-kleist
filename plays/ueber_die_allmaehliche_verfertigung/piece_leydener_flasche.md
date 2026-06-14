@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "Leydener-Flasche"
+title: "The Leyden Jar"
 declared: "Leydener-Flasche"
 license: CC-BY-NC-SA-4.0
 stamp:

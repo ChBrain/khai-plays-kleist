@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Der Forstmeister"
+title: "The Forest Warden"
 declared: "Der Forstmeister"
 license: CC-BY-NC-SA-4.0
 stamp:

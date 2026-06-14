@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "Die Vertrauenskrise"
+title: "The Crisis of Trust"
 declared: "Die Vertrauenskrise"
 license: CC-BY-NC-SA-4.0
 stamp:

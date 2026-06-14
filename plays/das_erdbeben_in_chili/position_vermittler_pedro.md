@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Vermittler Pedro"
+title: "Mediator (Pedro)"
 declared: "Vermittler Pedro"
 license: CC-BY-NC-SA-4.0
 stamp:

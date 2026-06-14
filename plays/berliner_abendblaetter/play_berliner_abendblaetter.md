@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Berliner Abendblätter"
+title: "The Berlin Evening Pages"
 declared: "Berliner Abendblätter"
 license: CC-BY-NC-SA-4.0
 stamp:

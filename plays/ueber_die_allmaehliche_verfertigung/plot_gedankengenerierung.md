@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "Gedankengenerierung"
+title: "The Generation of Thought"
 declared: "Gedankengenerierung"
 license: CC-BY-NC-SA-4.0
 stamp:

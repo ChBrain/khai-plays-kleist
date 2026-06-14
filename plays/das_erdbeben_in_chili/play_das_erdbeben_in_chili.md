@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Das Erdbeben in Chili"
+title: "The Earthquake in Chile"
 declared: "Das Erdbeben in Chili"
 license: CC-BY-NC-SA-4.0
 stamp:

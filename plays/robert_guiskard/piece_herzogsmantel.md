@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "Der Herzogsmantel"
+title: "The Ducal Mantle"
 declared: "Der Herzogsmantel"
 license: CC-BY-NC-SA-4.0
 stamp:

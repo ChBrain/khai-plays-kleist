@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Restaurator"
+title: "Restorer"
 declared: "Restaurator"
 license: CC-BY-NC-SA-4.0
 stamp:

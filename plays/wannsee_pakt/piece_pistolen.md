@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "Pistolen"
+title: "The Pistols"
 declared: "Pistolen"
 license: CC-BY-NC-SA-4.0
 stamp:

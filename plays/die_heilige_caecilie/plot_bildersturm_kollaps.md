@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "Bildersturm-Kollaps"
+title: "The Iconoclasm Collapse"
 declared: "Bildersturm-Kollaps"
 license: CC-BY-NC-SA-4.0
 stamp:

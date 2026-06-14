@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Eroberer"
+title: "Conqueror"
 declared: "Eroberer"
 license: CC-BY-NC-SA-4.0
 stamp:

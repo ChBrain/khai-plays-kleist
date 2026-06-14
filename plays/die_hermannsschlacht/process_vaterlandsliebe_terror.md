@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "Vaterlandsliebe und Terror"
+title: "Patriotism and Terror"
 declared: "Vaterlandsliebe und Terror"
 license: CC-BY-NC-SA-4.0
 stamp:

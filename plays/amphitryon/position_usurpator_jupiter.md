@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Usurpator Jupiter"
+title: "Usurper (Jupiter)"
 declared: "Usurpator Jupiter"
 license: CC-BY-NC-SA-4.0
 stamp:

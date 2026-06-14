@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "Religiöse Verzückung"
+title: "Religious Rapture"
 declared: "Religiöse Verzückung"
 license: CC-BY-NC-SA-4.0
 stamp:

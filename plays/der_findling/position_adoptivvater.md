@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Adoptivvater"
+title: "Adoptive Father"
 declared: "Adoptivvater"
 license: CC-BY-NC-SA-4.0
 stamp:

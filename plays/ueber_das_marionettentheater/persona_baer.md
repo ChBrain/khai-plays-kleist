@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Der Bär"
+title: "The Bear"
 declared: "Der Bär"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Der Findling"
+title: "The Foundling"
 declared: "Der Findling"
 license: CC-BY-NC-SA-4.0
 stamp:

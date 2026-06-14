@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Treuer Erbe"
+title: "The Loyal Heir"
 declared: "Treuer Erbe"
 license: CC-BY-NC-SA-4.0
 stamp:

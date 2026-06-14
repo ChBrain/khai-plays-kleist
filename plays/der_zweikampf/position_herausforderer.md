@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Herausforderer"
+title: "Challenger"
 declared: "Herausforderer"
 license: CC-BY-NC-SA-4.0
 stamp:

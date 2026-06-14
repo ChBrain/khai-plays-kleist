@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Bruder"
+title: "Brother"
 declared: "Bruder"
 license: CC-BY-NC-SA-4.0
 stamp:

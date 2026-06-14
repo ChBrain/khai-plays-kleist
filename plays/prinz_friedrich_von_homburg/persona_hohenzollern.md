@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Graf Hohenzollern"
+title: "Count Hohenzollern"
 declared: "Graf Hohenzollern"
 license: CC-BY-NC-SA-4.0
 stamp:

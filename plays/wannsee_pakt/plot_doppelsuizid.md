@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "Doppelsuizid"
+title: "Double Suicide"
 declared: "Doppelsuizid"
 license: CC-BY-NC-SA-4.0
 stamp:

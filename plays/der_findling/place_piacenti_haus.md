@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "Piacenti-Haus"
+title: "The Piacenti House"
 declared: "Piacenti-Haus"
 license: CC-BY-NC-SA-4.0
 stamp:

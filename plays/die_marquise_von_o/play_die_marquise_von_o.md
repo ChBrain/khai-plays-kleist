@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Die Marquise von O..."
+title: "The Marquise of O..."
 declared: "Die Marquise von O..."
 license: CC-BY-NC-SA-4.0
 stamp:

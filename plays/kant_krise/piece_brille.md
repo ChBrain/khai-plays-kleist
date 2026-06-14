@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "Brille"
+title: "The Spectacles"
 declared: "Brille"
 license: CC-BY-NC-SA-4.0
 stamp:

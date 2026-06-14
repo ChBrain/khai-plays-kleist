@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "Spuk-Wahnsinn"
+title: "Haunting Madness"
 declared: "Spuk-Wahnsinn"
 license: CC-BY-NC-SA-4.0
 stamp:

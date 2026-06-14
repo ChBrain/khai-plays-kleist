@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "Kampfplatz"
+title: "The Dueling Ground"
 declared: "Kampfplatz"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "Die Schwerpunkt-Steuerung"
+title: "Steering the Centre of Gravity"
 declared: "Die Schwerpunkt-Steuerung"
 license: CC-BY-NC-SA-4.0
 stamp:

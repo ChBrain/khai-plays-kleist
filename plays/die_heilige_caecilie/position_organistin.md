@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Organistin"
+title: "Organist"
 declared: "Organistin"
 license: CC-BY-NC-SA-4.0
 stamp:

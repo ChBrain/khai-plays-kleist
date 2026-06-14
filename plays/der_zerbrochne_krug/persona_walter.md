@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Gerichtsrat Walter"
+title: "Justice Walter"
 declared: "Gerichtsrat Walter"
 license: CC-BY-NC-SA-4.0
 stamp:

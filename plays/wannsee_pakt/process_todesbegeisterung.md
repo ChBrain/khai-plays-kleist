@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "Todesbegeisterung"
+title: "Rapture for Death"
 declared: "Todesbegeisterung"
 license: CC-BY-NC-SA-4.0
 stamp:

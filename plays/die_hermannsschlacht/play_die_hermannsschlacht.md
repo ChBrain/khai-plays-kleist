@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Die Hermannsschlacht"
+title: "The Battle of Hermann"
 declared: "Die Hermannsschlacht"
 license: CC-BY-NC-SA-4.0
 stamp:

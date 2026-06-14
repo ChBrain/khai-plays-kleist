@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Resonanzkörper"
+title: "Resonating Body"
 declared: "Resonanzkörper"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Souverän"
+title: "Sovereign"
 declared: "Souverän"
 license: CC-BY-NC-SA-4.0
 stamp:

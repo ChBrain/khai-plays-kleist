@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "Täuschungskollaps"
+title: "The Collapse of Deception"
 declared: "Täuschungskollaps"
 license: CC-BY-NC-SA-4.0
 stamp:

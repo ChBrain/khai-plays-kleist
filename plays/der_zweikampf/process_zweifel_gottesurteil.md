@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "Zweifel-Gottesurteil"
+title: "Doubt and the Ordeal"
 declared: "Zweifel-Gottesurteil"
 license: CC-BY-NC-SA-4.0
 stamp:

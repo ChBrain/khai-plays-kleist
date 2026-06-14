@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Verlust der Unschuld"
+title: "Loss of Innocence"
 declared: "Verlust der Unschuld"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Schreiber Licht"
+title: "Clerk Licht"
 declared: "Schreiber Licht"
 license: CC-BY-NC-SA-4.0
 stamp:

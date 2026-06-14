@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "Das Gebirge"
+title: "The Mountains"
 declared: "Das Gebirge"
 license: CC-BY-NC-SA-4.0
 stamp:

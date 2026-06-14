@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Pater Syndicus"
+title: "Father Syndicus"
 declared: "Pater Syndicus"
 license: CC-BY-NC-SA-4.0
 stamp:

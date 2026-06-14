@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Über das Marionettentheater"
+title: "On the Marionette Theatre"
 declared: "Über das Marionettentheater"
 license: CC-BY-NC-SA-4.0
 stamp:

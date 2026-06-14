@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Der Genius"
+title: "The Genius"
 declared: "Der Genius"
 license: CC-BY-NC-SA-4.0
 stamp:

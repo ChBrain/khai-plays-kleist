@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Prinzessin Natalie von Oranien"
+title: "Princess Natalie of Orange"
 declared: "Prinzessin Natalie von Oranien"
 license: CC-BY-NC-SA-4.0
 stamp:

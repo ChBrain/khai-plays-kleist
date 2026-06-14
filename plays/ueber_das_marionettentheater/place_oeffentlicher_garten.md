@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "Der Öffentliche Garten"
+title: "The Public Garden"
 declared: "Der Öffentliche Garten"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "Schreibstube"
+title: "The Writing Room"
 declared: "Schreibstube"
 license: CC-BY-NC-SA-4.0
 stamp:

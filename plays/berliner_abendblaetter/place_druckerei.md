@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "Druckerei"
+title: "The Printing House"
 declared: "Druckerei"
 license: CC-BY-NC-SA-4.0
 stamp:

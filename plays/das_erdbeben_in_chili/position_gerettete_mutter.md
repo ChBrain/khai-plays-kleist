@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Gerettete Mutter"
+title: "The Rescued Mother"
 declared: "Gerettete Mutter"
 license: CC-BY-NC-SA-4.0
 stamp:

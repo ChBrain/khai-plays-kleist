@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Feldmarschall Dörfling"
+title: "Field Marshal Dörfling"
 declared: "Feldmarschall Dörfling"
 license: CC-BY-NC-SA-4.0
 stamp:

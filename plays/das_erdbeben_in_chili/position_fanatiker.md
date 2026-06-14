@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Fanatiker"
+title: "Fanatic"
 declared: "Fanatiker"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Demagoge"
+title: "Demagogue"
 declared: "Demagoge"
 license: CC-BY-NC-SA-4.0
 stamp:

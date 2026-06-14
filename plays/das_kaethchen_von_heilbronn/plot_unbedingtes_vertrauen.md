@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "Unbedingtes Vertrauen"
+title: "Unconditional Trust"
 declared: "Unbedingtes Vertrauen"
 license: CC-BY-NC-SA-4.0
 stamp:

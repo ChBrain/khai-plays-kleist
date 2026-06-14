@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "Strohlager"
+title: "The Straw Bed"
 declared: "Strohlager"
 license: CC-BY-NC-SA-4.0
 stamp:

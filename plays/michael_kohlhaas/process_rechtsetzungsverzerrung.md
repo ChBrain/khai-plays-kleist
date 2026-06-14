@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "Die Rechtsetzungsverzerrung"
+title: "The Perversion of Justice"
 declared: "Die Rechtsetzungsverzerrung"
 license: CC-BY-NC-SA-4.0
 stamp:

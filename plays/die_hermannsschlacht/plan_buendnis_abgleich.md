@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "Bündnis-Abgleich"
+title: "Aligning the Alliance"
 declared: "Bündnis-Abgleich"
 license: CC-BY-NC-SA-4.0
 stamp:

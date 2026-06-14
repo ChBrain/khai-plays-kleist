@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "Die goldene Kapsel"
+title: "The Golden Capsule"
 declared: "Die goldene Kapsel"
 license: CC-BY-NC-SA-4.0
 stamp:

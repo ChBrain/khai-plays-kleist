@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "Die Fehde"
+title: "The Feud"
 declared: "Die Fehde"
 license: CC-BY-NC-SA-4.0
 stamp:

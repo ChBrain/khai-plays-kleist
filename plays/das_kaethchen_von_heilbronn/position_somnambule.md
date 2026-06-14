@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Somnambule"
+title: "Somnambulist"
 declared: "Somnambule"
 license: CC-BY-NC-SA-4.0
 stamp:

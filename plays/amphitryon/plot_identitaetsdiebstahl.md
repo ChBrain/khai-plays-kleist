@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "Der Identitätsdiebstahl"
+title: "Identity Theft"
 declared: "Der Identitätsdiebstahl"
 license: CC-BY-NC-SA-4.0
 stamp:

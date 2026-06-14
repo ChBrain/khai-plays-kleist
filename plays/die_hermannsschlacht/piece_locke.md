@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "Die Locke"
+title: "The Lock of Hair"
 declared: "Die Locke"
 license: CC-BY-NC-SA-4.0
 stamp:

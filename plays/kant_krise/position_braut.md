@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Braut"
+title: "The Betrothed"
 declared: "Braut"
 license: CC-BY-NC-SA-4.0
 stamp:

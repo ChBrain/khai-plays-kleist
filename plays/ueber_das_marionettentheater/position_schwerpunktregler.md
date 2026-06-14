@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Schwerpunktregler"
+title: "Regulator of the Centre of Gravity"
 declared: "Schwerpunktregler"
 license: CC-BY-NC-SA-4.0
 stamp:

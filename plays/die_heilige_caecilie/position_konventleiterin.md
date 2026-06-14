@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Konventleiterin"
+title: "The Convent Superior"
 declared: "Konventleiterin"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "Colino-Porträt"
+title: "Colino's Portrait"
 declared: "Colino-Porträt"
 license: CC-BY-NC-SA-4.0
 stamp:

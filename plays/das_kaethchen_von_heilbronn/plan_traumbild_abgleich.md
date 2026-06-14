@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "Traumbild-Abgleich"
+title: "The Dream-Vision Match"
 declared: "Traumbild-Abgleich"
 license: CC-BY-NC-SA-4.0
 stamp:

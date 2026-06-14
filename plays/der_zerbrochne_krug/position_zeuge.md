@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Zeuge"
+title: "Witness"
 declared: "Zeuge"
 license: CC-BY-NC-SA-4.0
 stamp:

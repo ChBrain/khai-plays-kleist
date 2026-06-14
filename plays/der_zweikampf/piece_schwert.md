@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "Schwert"
+title: "The Sword"
 declared: "Schwert"
 license: CC-BY-NC-SA-4.0
 stamp:

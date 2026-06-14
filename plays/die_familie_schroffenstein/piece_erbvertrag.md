@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "Der Erbvertrag"
+title: "The Inheritance Pact"
 declared: "Der Erbvertrag"
 license: CC-BY-NC-SA-4.0
 stamp:

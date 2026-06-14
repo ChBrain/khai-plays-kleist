@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Zensurbehörde"
+title: "Censorship Authority"
 declared: "Zensurbehörde"
 license: CC-BY-NC-SA-4.0
 stamp:

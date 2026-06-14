@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Die Familie Schroffenstein"
+title: "The Schroffenstein Family"
 declared: "Die Familie Schroffenstein"
 license: CC-BY-NC-SA-4.0
 stamp:

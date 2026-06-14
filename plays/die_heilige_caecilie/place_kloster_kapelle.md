@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "Kloster-Kapelle"
+title: "The Convent Chapel"
 declared: "Kloster-Kapelle"
 license: CC-BY-NC-SA-4.0
 stamp:

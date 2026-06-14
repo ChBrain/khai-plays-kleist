@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "Das Missverständnis"
+title: "The Misunderstanding"
 declared: "Das Missverständnis"
 license: CC-BY-NC-SA-4.0
 stamp:

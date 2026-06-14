@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Patrizier Warwand"
+title: "Patrician of Warwand"
 declared: "Patrizier Warwand"
 license: CC-BY-NC-SA-4.0
 stamp:

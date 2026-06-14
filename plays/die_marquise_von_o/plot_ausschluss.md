@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "Der Ausschluss"
+title: "The Expulsion"
 declared: "Der Ausschluss"
 license: CC-BY-NC-SA-4.0
 stamp:

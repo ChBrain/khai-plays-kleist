@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Die Marionette"
+title: "The Marionette"
 declared: "Die Marionette"
 license: CC-BY-NC-SA-4.0
 stamp:

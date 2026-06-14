@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "Troja"
+title: "Troy"
 declared: "Troja"
 license: CC-BY-NC-SA-4.0
 stamp:

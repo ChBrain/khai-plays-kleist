@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Der Obrist"
+title: "The Colonel"
 declared: "Der Obrist"
 license: CC-BY-NC-SA-4.0
 stamp:

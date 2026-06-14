@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Opfer-Schatten"
+title: "The Victim's Shade"
 declared: "Opfer-Schatten"
 license: CC-BY-NC-SA-4.0
 stamp:

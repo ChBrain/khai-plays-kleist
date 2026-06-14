@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "Abendblatt"
+title: "The Evening Paper"
 declared: "Abendblatt"
 license: CC-BY-NC-SA-4.0
 stamp:

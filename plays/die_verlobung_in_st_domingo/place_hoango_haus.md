@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "Das Hoango-Haus"
+title: "The Hoango House"
 declared: "Das Hoango-Haus"
 license: CC-BY-NC-SA-4.0
 stamp:

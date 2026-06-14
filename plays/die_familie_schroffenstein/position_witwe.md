@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Witwe"
+title: "Widow"
 declared: "Witwe"
 license: CC-BY-NC-SA-4.0
 stamp:

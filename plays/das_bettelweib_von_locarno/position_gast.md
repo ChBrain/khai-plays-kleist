@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Gast"
+title: "Guest"
 declared: "Gast"
 license: CC-BY-NC-SA-4.0
 stamp:

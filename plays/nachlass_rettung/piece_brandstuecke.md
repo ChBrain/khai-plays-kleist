@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "Brandstücke"
+title: "The Charred Fragments"
 declared: "Brandstücke"
 license: CC-BY-NC-SA-4.0
 stamp:

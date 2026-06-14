@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "Der Krug"
+title: "The Jug"
 declared: "Der Krug"
 license: CC-BY-NC-SA-4.0
 stamp:

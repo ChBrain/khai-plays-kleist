@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "Die Gerichtsverhandlung"
+title: "The Trial"
 declared: "Die Gerichtsverhandlung"
 license: CC-BY-NC-SA-4.0
 stamp:

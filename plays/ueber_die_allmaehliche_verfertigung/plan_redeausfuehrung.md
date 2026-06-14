@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "Redeausführung"
+title: "Delivery of the Speech"
 declared: "Redeausführung"
 license: CC-BY-NC-SA-4.0
 stamp:

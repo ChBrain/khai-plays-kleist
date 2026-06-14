@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Die heilige Cäcilie oder die Gewalt der Musik"
+title: "St Cecilia, or the Power of Music"
 declared: "Die heilige Cäcilie oder die Gewalt der Musik"
 license: CC-BY-NC-SA-4.0
 stamp:

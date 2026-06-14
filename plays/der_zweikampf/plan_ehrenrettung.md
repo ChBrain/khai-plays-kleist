@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "Ehrenrettung"
+title: "Vindication of Honour"
 declared: "Ehrenrettung"
 license: CC-BY-NC-SA-4.0
 stamp:

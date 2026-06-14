@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "Die Repräsentanten-Rosse"
+title: "The Representative Horses"
 declared: "Die Repräsentanten-Rosse"
 license: CC-BY-NC-SA-4.0
 stamp:

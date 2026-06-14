@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Mutter"
+title: "Mother"
 declared: "Mutter"
 license: CC-BY-NC-SA-4.0
 stamp:

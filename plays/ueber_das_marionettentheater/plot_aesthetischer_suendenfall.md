@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "Der Ästhetische Sündenfall"
+title: "The Aesthetic Fall"
 declared: "Der Ästhetische Sündenfall"
 license: CC-BY-NC-SA-4.0
 stamp:

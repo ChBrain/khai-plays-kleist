@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Bote"
+title: "Messenger"
 declared: "Bote"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Meister Pedro"
+title: "Master Pedro"
 declared: "Meister Pedro"
 license: CC-BY-NC-SA-4.0
 stamp:

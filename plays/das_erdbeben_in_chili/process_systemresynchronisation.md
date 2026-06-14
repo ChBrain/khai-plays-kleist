@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "Die Systemresynchronisation"
+title: "System Resynchronisation"
 declared: "Die Systemresynchronisation"
 license: CC-BY-NC-SA-4.0
 stamp:

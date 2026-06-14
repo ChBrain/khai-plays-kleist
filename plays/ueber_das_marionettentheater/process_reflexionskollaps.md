@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "Der Reflexionskollaps"
+title: "The Collapse of Reflection"
 declared: "Der Reflexionskollaps"
 license: CC-BY-NC-SA-4.0
 stamp:
