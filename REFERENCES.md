@@ -32,6 +32,8 @@ The current status of the Kleist productions within this house:
 - [x] **The Kant Crisis** (Biography) - Staged
 - [x] **The Wannsee Pact** (Biography) - Staged
 - [x] **Recovery of the Nachlass** (Biography) - Staged
+- [x] **Der Zweikampf** (Novella) - Staged
+- [x] **Berliner Abendblätter** (Journal) - Staged
 
 ## Origin
 
@@ -56,6 +58,8 @@ Kleist's dramas and novellas, historical archives, and cultural context.
 |             | _Die heilige Cäcilie oder die Gewalt der Musik_ (1810)             | A musical miracle pacifies iconoclastic zealots, inducing a state of perpetual religious awe.  |
 |             | _Das Bettelweib von Locarno_ (1810)                                | Social exclusion of a beggar woman returns as a haunting ghost, leading to castle destruction. |
 |             | _Über die allmähliche Verfertigung der Gedanken beim Reden_ (1878) | Formulation of ideas dynamically emerging during the process of speech.                        |
+|             | _Der Zweikampf_ (1811)                                             | Trial by combat and the limits of human interpretation.                                        |
+|             | _Berliner Abendblätter_ (1810)                                     | Journalistic cycles, police reports, and state censorship.                                     |
 | **History** | _The Kant Crisis_ (1801)                                           | Invalidation of teleology due to cognitive sensory filters.                                    |
 |             | _The Wannsee Pact_ (1811)                                          | Synchronized termination protocol of Kleist and Henriette Vogel.                               |
 |             | _Recovery of the Nachlass_ (1821)                                  | Ludwig Tieck's restoration of fragmented manuscripts.                                          |
