@@ -21,7 +21,7 @@ Berliner Abendblätter
 
 ## Arc
 
-Ein zeitgenössisches, publizistisches System über die Herausgabe der ersten Berliner Tageszeitung durch Heinrich von Kleist und deren Kollision mit der preußischen Zensur.
+Ein System über die erste Berliner Tageszeitung und Kleists Kollision mit der preußischen Zensur.
 
 Kleist gründet im Oktober 1810 die Berliner Abendblätter als tägliches Nachrichtenblatt, das durch eine innovative Mischung aus Polizeiberichten des Polizeichefs Gruner, scharfen Theaterkritiken und philosophischen Anekdoten rasch das Berliner Publikum erobert. Das freche und politisch brisante Konzept provoziert jedoch bald die preußische Zensurbehörde, die durch strikte Auflagen und willkürliche Verbote den Zufluss authentischer Nachrichten abschneidet, Kleists Existenz ruiniert und das Journal nach wenigen Monaten zum wirtschaftlichen und inhaltlichen Kollaps zwingt.
 

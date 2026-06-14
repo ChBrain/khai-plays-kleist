@@ -21,7 +21,7 @@ Der Zweikampf
 
 ## Arc
 
-Eine historische Novelle über ein Gottesurteil, das durch den vermeintlichen Sieg des Schuldigen die Zuverlässigkeit göttlicher Gerechtigkeit in Zweifel zieht.
+Eine Novelle über ein Gottesurteil, das durch den Scheinsieg des Täters göttliche Gerechtigkeit infrage stellt.
 
 Nach dem Meuchelmord an Herzog Wilhelm von Breisach beschuldigt dessen Halbbruder Graf Jakob der Rotbart die unschuldige Littegarde der Unkeuschheit, um sich ein Alibi zu verschaffen und das Erbe an sich zu reißen. Littegardes treuer Beschützer Ritter Friedrich von Trota fordert Jakob zum gerichtlichen Zweikampf auf Leben und Tod heraus, um ihre Ehre zu retten, doch als Friedrich schwer verwundet wird und Jakob scheinbar siegt, stürzt das Vertrauen aller Beteiligten in das Gottesurteil in eine tiefe Krise, bis sich das göttliche Gericht durch die tödliche Wundinfektion des unverletzten Jakobs auf paradoxe Weise doch noch offenbart.
 
