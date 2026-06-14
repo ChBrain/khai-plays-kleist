@@ -1,12 +1,17 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-kleist",
-  "version": "0.17.0",
+  "version": "0.19.0",
   "plays": [
     {
       "id": "amphitryon",
       "title": "Amphitryon",
       "description": "Ein Lustspiel über göttlichen Identitätsdiebstahl und den Zusammenbruch der verlässlichen Selbsterkenntnis."
+    },
+    {
+      "id": "berliner_abendblaetter",
+      "title": "Berliner Abendblätter",
+      "description": "Ein System über die erste Berliner Tageszeitung und Kleists Kollision mit der preußischen Zensur."
     },
     {
       "id": "das_bettelweib_von_locarno",
@@ -32,6 +37,11 @@
       "id": "der_zerbrochne_krug",
       "title": "Der zerbrochne Krug",
       "description": "Ein Lustspiel über Richter Adam, der einen Gerichtsprozess über eine Tat leitet, die er selbst begangen hat."
+    },
+    {
+      "id": "der_zweikampf",
+      "title": "Der Zweikampf",
+      "description": "Eine Novelle über ein Gottesurteil, das durch den Scheinsieg des Täters göttliche Gerechtigkeit infrage stellt."
     },
     {
       "id": "die_familie_schroffenstein",
