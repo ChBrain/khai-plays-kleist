@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Sterbewilliger"
+title: "The One Willing to Die"
 declared: "Sterbewilliger"
 license: CC-BY-NC-SA-4.0
 stamp:

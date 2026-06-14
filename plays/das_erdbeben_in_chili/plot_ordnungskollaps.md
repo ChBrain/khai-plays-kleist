@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "Der Ordnungskollaps"
+title: "The Collapse of Order"
 declared: "Der Ordnungskollaps"
 license: CC-BY-NC-SA-4.0
 stamp:

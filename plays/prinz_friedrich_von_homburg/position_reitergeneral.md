@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Reitergeneral"
+title: "Cavalry General"
 declared: "Reitergeneral"
 license: CC-BY-NC-SA-4.0
 stamp:

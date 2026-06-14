@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "Das Amazonengesetz"
+title: "The Law of the Amazons"
 declared: "Das Amazonengesetz"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Täter-Retter"
+title: "Perpetrator-Rescuer"
 declared: "Täter-Retter"
 license: CC-BY-NC-SA-4.0
 stamp:

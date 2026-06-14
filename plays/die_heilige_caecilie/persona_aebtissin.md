@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Äbtissin"
+title: "The Abbess"
 declared: "Äbtissin"
 license: CC-BY-NC-SA-4.0
 stamp:

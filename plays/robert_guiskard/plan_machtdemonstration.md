@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "Die Machtdemonstration"
+title: "The Show of Power"
 declared: "Die Machtdemonstration"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Schutzengel"
+title: "Guardian Angel"
 declared: "Schutzengel"
 license: CC-BY-NC-SA-4.0
 stamp:

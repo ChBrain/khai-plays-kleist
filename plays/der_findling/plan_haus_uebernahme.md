@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "Haus-Übernahme"
+title: "Takeover of the House"
 declared: "Haus-Übernahme"
 license: CC-BY-NC-SA-4.0
 stamp:

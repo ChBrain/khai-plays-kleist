@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "Gedankenzersetzung"
+title: "The Disintegration of Thought"
 declared: "Gedankenzersetzung"
 license: CC-BY-NC-SA-4.0
 stamp:

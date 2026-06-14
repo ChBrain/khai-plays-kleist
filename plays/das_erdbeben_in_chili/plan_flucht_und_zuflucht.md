@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "Die Flucht und Zuflucht"
+title: "Flight and Refuge"
 declared: "Die Flucht und Zuflucht"
 license: CC-BY-NC-SA-4.0
 stamp:

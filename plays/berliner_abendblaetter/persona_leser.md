@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Leser"
+title: "The Reader"
 declared: "Leser"
 license: CC-BY-NC-SA-4.0
 stamp:

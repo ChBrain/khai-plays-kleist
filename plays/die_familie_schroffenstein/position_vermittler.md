@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Vermittler"
+title: "Mediator"
 declared: "Vermittler"
 license: CC-BY-NC-SA-4.0
 stamp:

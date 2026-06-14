@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Tänzer"
+title: "Dancer"
 declared: "Tänzer"
 license: CC-BY-NC-SA-4.0
 stamp:

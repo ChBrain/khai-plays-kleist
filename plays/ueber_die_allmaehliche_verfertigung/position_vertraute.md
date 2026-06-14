@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Vertraute"
+title: "Confidante"
 declared: "Vertraute"
 license: CC-BY-NC-SA-4.0
 stamp:

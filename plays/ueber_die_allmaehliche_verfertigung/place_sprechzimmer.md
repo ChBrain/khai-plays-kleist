@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "Sprechzimmer"
+title: "The Parlour"
 declared: "Sprechzimmer"
 license: CC-BY-NC-SA-4.0
 stamp:

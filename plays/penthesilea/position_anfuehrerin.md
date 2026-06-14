@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Anführerin"
+title: "Leader"
 declared: "Anführerin"
 license: CC-BY-NC-SA-4.0
 stamp:

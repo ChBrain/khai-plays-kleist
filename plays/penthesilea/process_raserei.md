@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "Die Raserei"
+title: "The Frenzy"
 declared: "Die Raserei"
 license: CC-BY-NC-SA-4.0
 stamp:

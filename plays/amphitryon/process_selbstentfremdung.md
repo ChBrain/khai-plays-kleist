@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "Die Selbstentfremdung"
+title: "Self-Estrangement"
 declared: "Die Selbstentfremdung"
 license: CC-BY-NC-SA-4.0
 stamp:

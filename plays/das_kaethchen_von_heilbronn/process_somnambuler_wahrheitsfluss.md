@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "Somnambuler Wahrheitsfluss"
+title: "The Somnambulant Flow of Truth"
 declared: "Somnambuler Wahrheitsfluss"
 license: CC-BY-NC-SA-4.0
 stamp:

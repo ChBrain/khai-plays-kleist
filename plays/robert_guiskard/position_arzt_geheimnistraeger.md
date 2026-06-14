@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Arzt Geheimnisträger"
+title: "Physician and Secret-Keeper"
 declared: "Arzt Geheimnisträger"
 license: CC-BY-NC-SA-4.0
 stamp:

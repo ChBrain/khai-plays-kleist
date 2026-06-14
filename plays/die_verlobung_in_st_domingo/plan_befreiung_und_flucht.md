@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "Die Befreiung und Flucht"
+title: "Liberation and Flight"
 declared: "Die Befreiung und Flucht"
 license: CC-BY-NC-SA-4.0
 stamp:

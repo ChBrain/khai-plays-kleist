@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "Das Philipp-Kind"
+title: "The Child Philipp"
 declared: "Das Philipp-Kind"
 license: CC-BY-NC-SA-4.0
 stamp:

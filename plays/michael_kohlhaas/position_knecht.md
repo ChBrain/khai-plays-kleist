@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Knecht"
+title: "Farmhand"
 declared: "Knecht"
 license: CC-BY-NC-SA-4.0
 stamp:

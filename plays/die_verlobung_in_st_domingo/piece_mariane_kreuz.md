@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "Das Mariane-Kreuz"
+title: "Mariane's Cross"
 declared: "Das Mariane-Kreuz"
 license: CC-BY-NC-SA-4.0
 stamp:

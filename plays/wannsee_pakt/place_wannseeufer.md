@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "Wannseeufer"
+title: "The Shore of the Wannsee"
 declared: "Wannseeufer"
 license: CC-BY-NC-SA-4.0
 stamp:

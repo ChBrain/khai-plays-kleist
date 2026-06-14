@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Über die allmähliche Verfertigung der Gedanken beim Reden"
+title: "On the Gradual Formation of Thoughts While Speaking"
 declared: "Über die allmähliche Verfertigung der Gedanken beim Reden"
 license: CC-BY-NC-SA-4.0
 stamp:

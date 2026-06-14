@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Der Kaiser"
+title: "The Emperor"
 declared: "Der Kaiser"
 license: CC-BY-NC-SA-4.0
 stamp:

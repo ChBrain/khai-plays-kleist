@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Zweifler"
+title: "The Doubter"
 declared: "Zweifler"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "Zensur-Kollaps"
+title: "Censorship Collapse"
 declared: "Zensur-Kollaps"
 license: CC-BY-NC-SA-4.0
 stamp:

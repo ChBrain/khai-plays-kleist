@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "Die Tronkenburg"
+title: "Tronka Castle"
 declared: "Die Tronkenburg"
 license: CC-BY-NC-SA-4.0
 stamp:

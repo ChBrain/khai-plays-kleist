@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "Die Bewusstseinslücke"
+title: "The Lapse of Consciousness"
 declared: "Die Bewusstseinslücke"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "Der Nachfolgestreit"
+title: "The Succession Dispute"
 declared: "Der Nachfolgestreit"
 license: CC-BY-NC-SA-4.0
 stamp:

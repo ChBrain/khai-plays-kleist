@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "Austrittsprotokoll"
+title: "The Exit Protocol"
 declared: "Austrittsprotokoll"
 license: CC-BY-NC-SA-4.0
 stamp:

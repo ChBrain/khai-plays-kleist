@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Heilige"
+title: "The Saint"
 declared: "Heilige"
 license: CC-BY-NC-SA-4.0
 stamp:

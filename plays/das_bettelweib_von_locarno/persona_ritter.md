@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Ritter"
+title: "The Knight"
 declared: "Ritter"
 license: CC-BY-NC-SA-4.0
 stamp:

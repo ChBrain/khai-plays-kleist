@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "Heimsuchung-Brand"
+title: "The Haunting and the Fire"
 declared: "Heimsuchung-Brand"
 license: CC-BY-NC-SA-4.0
 stamp:

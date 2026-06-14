@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "Nachrichtenfluss"
+title: "The Flow of News"
 declared: "Nachrichtenfluss"
 license: CC-BY-NC-SA-4.0
 stamp:

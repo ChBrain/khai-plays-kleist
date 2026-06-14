@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Stratege"
+title: "Strategist"
 declared: "Stratege"
 license: CC-BY-NC-SA-4.0
 stamp:

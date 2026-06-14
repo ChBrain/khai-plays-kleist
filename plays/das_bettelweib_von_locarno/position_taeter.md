@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Täter"
+title: "Perpetrator"
 declared: "Täter"
 license: CC-BY-NC-SA-4.0
 stamp:

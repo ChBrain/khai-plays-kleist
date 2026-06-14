@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Gerichtsrat"
+title: "Court Councillor"
 declared: "Gerichtsrat"
 license: CC-BY-NC-SA-4.0
 stamp:

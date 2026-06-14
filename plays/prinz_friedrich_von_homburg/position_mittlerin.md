@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Mittlerin"
+title: "Intermediary"
 declared: "Mittlerin"
 license: CC-BY-NC-SA-4.0
 stamp:

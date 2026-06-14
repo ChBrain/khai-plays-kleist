@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "Heimburg und Höhle"
+title: "The Keep and the Cave"
 declared: "Heimburg und Höhle"
 license: CC-BY-NC-SA-4.0
 stamp:

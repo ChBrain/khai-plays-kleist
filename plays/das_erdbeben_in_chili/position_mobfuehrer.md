@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Mobführer"
+title: "Mob Leader"
 declared: "Mobführer"
 license: CC-BY-NC-SA-4.0
 stamp:

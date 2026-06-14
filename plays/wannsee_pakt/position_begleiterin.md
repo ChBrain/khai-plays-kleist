@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Begleiterin"
+title: "Companion"
 declared: "Begleiterin"
 license: CC-BY-NC-SA-4.0
 stamp:

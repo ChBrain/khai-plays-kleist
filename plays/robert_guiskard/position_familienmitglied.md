@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Familienmitglied"
+title: "Family Member"
 declared: "Familienmitglied"
 license: CC-BY-NC-SA-4.0
 stamp:

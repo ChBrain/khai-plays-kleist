@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Lockvogel"
+title: "The Decoy"
 declared: "Lockvogel"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Obrist"
+title: "Colonel"
 declared: "Obrist"
 license: CC-BY-NC-SA-4.0
 stamp:

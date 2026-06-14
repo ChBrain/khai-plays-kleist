@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Der Zweikampf"
+title: "The Duel"
 declared: "Der Zweikampf"
 license: CC-BY-NC-SA-4.0
 stamp:

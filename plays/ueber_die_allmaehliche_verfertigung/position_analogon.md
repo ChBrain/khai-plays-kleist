@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Analogon"
+title: "Analogue"
 declared: "Analogon"
 license: CC-BY-NC-SA-4.0
 stamp:

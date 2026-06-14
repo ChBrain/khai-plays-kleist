@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "Das Schlafwandeln"
+title: "Sleepwalking"
 declared: "Das Schlafwandeln"
 license: CC-BY-NC-SA-4.0
 stamp:

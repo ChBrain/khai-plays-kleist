@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "Wissenschaftsflucht"
+title: "Flight from Science"
 declared: "Wissenschaftsflucht"
 license: CC-BY-NC-SA-4.0
 stamp:

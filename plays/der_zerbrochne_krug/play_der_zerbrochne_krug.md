@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Der zerbrochne Krug"
+title: "The Broken Jug"
 declared: "Der zerbrochne Krug"
 license: CC-BY-NC-SA-4.0
 stamp:

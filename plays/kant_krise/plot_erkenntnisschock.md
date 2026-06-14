@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "Erkenntnisschock"
+title: "Epistemic Shock"
 declared: "Erkenntnisschock"
 license: CC-BY-NC-SA-4.0
 stamp:

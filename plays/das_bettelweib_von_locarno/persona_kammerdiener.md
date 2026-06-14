@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Kammerdiener"
+title: "The Valet"
 declared: "Kammerdiener"
 license: CC-BY-NC-SA-4.0
 stamp:

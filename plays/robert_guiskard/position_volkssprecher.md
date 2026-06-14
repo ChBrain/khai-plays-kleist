@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Volkssprecher"
+title: "Spokesman of the People"
 declared: "Volkssprecher"
 license: CC-BY-NC-SA-4.0
 stamp:

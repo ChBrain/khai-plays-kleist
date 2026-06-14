@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Das Bettelweib von Locarno"
+title: "The Beggarwoman of Locarno"
 declared: "Das Bettelweib von Locarno"
 license: CC-BY-NC-SA-4.0
 stamp:

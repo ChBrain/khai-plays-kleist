@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Tochter"
+title: "Daughter"
 declared: "Tochter"
 license: CC-BY-NC-SA-4.0
 stamp:

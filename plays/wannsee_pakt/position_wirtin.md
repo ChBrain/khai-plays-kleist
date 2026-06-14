@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Wirtin-Stellung"
+title: "Innkeeper"
 declared: "Wirtin-Stellung"
 license: CC-BY-NC-SA-4.0
 stamp:

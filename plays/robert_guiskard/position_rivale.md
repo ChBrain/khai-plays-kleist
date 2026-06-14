@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Rivale"
+title: "Rival"
 declared: "Rivale"
 license: CC-BY-NC-SA-4.0
 stamp:

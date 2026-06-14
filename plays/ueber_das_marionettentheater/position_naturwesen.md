@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Naturwesen"
+title: "Natural Being"
 declared: "Naturwesen"
 license: CC-BY-NC-SA-4.0
 stamp:

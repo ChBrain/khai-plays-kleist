@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "Allmähliche-Verfertigung"
+title: "Gradual Formation"
 declared: "Allmähliche-Verfertigung"
 license: CC-BY-NC-SA-4.0
 stamp:

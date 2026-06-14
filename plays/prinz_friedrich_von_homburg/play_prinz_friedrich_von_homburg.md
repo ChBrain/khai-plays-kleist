@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Prinz Friedrich von Homburg"
+title: "The Prince of Homburg"
 declared: "Prinz Friedrich von Homburg"
 license: CC-BY-NC-SA-4.0
 stamp:

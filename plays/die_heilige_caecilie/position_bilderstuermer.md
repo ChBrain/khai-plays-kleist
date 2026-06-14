@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Bilderstürmer"
+title: "Iconoclast"
 declared: "Bilderstürmer"
 license: CC-BY-NC-SA-4.0
 stamp:

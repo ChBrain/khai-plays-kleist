@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "Gottesurteil"
+title: "The Judgment of God"
 declared: "Gottesurteil"
 license: CC-BY-NC-SA-4.0
 stamp:

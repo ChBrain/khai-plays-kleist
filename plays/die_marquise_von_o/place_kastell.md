@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "Das Kastell"
+title: "The Citadel"
 declared: "Das Kastell"
 license: CC-BY-NC-SA-4.0
 stamp:

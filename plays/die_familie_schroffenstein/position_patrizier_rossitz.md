@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Patrizier Rossitz"
+title: "Patrician of Rossitz"
 declared: "Patrizier Rossitz"
 license: CC-BY-NC-SA-4.0
 stamp:

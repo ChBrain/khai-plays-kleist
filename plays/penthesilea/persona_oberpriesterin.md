@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Die Oberpriesterin"
+title: "The High Priestess"
 declared: "Die Oberpriesterin"
 license: CC-BY-NC-SA-4.0
 stamp:

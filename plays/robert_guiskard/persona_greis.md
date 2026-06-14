@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Der Greis"
+title: "The Old Man"
 declared: "Der Greis"
 license: CC-BY-NC-SA-4.0
 stamp:

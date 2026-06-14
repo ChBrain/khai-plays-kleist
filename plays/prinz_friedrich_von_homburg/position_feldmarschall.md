@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Feldmarschall"
+title: "Field Marshal"
 declared: "Feldmarschall"
 license: CC-BY-NC-SA-4.0
 stamp:

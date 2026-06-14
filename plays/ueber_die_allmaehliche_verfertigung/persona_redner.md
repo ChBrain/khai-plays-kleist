@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Redner"
+title: "The Orator"
 declared: "Redner"
 license: CC-BY-NC-SA-4.0
 stamp:

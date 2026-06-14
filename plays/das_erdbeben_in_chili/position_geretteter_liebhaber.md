@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Geretteter Liebhaber"
+title: "The Rescued Lover"
 declared: "Geretteter Liebhaber"
 license: CC-BY-NC-SA-4.0
 stamp:

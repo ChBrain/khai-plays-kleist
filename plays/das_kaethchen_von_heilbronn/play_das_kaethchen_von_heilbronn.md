@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Das Käthchen von Heilbronn"
+title: "Kate of Heilbronn"
 declared: "Das Käthchen von Heilbronn"
 license: CC-BY-NC-SA-4.0
 stamp:

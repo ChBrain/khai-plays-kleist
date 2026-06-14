@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "Der Racheeid"
+title: "The Oath of Revenge"
 declared: "Der Racheeid"
 license: CC-BY-NC-SA-4.0
 stamp:

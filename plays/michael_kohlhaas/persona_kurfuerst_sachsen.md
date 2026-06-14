@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Kurfürst von Sachsen"
+title: "Elector of Saxony"
 declared: "Kurfürst von Sachsen"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: play
-title: "Die Verlobung in St. Domingo"
+title: "The Betrothal in Santo Domingo"
 declared: "Die Verlobung in St. Domingo"
 license: CC-BY-NC-SA-4.0
 stamp:

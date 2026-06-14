@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Bettelweib"
+title: "The Beggarwoman"
 declared: "Bettelweib"
 license: CC-BY-NC-SA-4.0
 stamp:

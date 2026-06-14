@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Verleumdete"
+title: "The Slandered Woman"
 declared: "Verleumdete"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "Klosterplünderung"
+title: "Plundering of the Convent"
 declared: "Klosterplünderung"
 license: CC-BY-NC-SA-4.0
 stamp:

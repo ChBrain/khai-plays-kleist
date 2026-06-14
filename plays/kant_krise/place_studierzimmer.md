@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "Studierzimmer"
+title: "The Study"
 declared: "Studierzimmer"
 license: CC-BY-NC-SA-4.0
 stamp:

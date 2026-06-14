@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "Der Rosenkranz"
+title: "The Garland of Roses"
 declared: "Der Rosenkranz"
 license: CC-BY-NC-SA-4.0
 stamp:

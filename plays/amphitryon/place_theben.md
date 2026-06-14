@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "Theben"
+title: "Thebes"
 declared: "Theben"
 license: CC-BY-NC-SA-4.0
 stamp:

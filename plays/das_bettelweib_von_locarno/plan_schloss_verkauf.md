@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "Schloss-Verkauf"
+title: "Sale of the Castle"
 declared: "Schloss-Verkauf"
 license: CC-BY-NC-SA-4.0
 stamp:

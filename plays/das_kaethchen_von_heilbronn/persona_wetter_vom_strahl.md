@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Graf Wetter vom Strahl"
+title: "Count Wetter vom Strahl"
 declared: "Graf Wetter vom Strahl"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Edelknecht"
+title: "Squire"
 declared: "Edelknecht"
 license: CC-BY-NC-SA-4.0
 stamp:

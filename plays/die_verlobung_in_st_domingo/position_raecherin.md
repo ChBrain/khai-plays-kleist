@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Rächerin"
+title: "Avenger"
 declared: "Rächerin"
 license: CC-BY-NC-SA-4.0
 stamp:

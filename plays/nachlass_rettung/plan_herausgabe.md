@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "Herausgabe"
+title: "Publication"
 declared: "Herausgabe"
 license: CC-BY-NC-SA-4.0
 stamp:

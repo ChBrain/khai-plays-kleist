@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "Undankbarkeit und Eskalation"
+title: "Ingratitude and Escalation"
 declared: "Undankbarkeit und Eskalation"
 license: CC-BY-NC-SA-4.0
 stamp:

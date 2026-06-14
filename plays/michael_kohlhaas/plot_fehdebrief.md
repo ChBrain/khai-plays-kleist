@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "Der Fehdebrief"
+title: "The Feud Letter"
 declared: "Der Fehdebrief"
 license: CC-BY-NC-SA-4.0
 stamp:

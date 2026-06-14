@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Friedrich Wilhelm, Kurfürst von Brandenburg"
+title: "Friedrich Wilhelm, Elector of Brandenburg"
 declared: "Kurfürst Friedrich Wilhelm"
 license: CC-BY-NC-SA-4.0
 stamp:

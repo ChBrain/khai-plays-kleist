@@ -1,6 +1,6 @@
 ---
 khai: plan
-title: "Vertrieb"
+title: "Distribution"
 declared: "Vertrieb"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Ehefrau Alkmene"
+title: "Wife (Alkmene)"
 declared: "Ehefrau Alkmene"
 license: CC-BY-NC-SA-4.0
 stamp:

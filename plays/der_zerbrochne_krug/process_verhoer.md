@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "Das Verhör"
+title: "The Interrogation"
 declared: "Das Verhör"
 license: CC-BY-NC-SA-4.0
 stamp:

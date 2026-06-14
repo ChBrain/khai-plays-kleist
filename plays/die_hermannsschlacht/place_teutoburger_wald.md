@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "Teutoburger Wald"
+title: "The Teutoburg Forest"
 declared: "Teutoburger Wald"
 license: CC-BY-NC-SA-4.0
 stamp:

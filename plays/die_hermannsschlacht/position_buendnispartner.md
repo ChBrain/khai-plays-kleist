@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Bündnispartner"
+title: "Ally"
 declared: "Bündnispartner"
 license: CC-BY-NC-SA-4.0
 stamp:

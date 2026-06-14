@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Dorfrichter Adam"
+title: "Village Judge Adam"
 declared: "Dorfrichter Adam"
 license: CC-BY-NC-SA-4.0
 stamp:

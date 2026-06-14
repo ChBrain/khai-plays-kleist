@@ -1,6 +1,6 @@
 ---
 khai: process
-title: "Die Fehlinterpretation"
+title: "The Misinterpretation"
 declared: "Die Fehlinterpretation"
 license: CC-BY-NC-SA-4.0
 stamp:

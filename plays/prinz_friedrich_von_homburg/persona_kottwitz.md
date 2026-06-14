@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Obrist Kottwitz"
+title: "Colonel Kottwitz"
 declared: "Obrist Kottwitz"
 license: CC-BY-NC-SA-4.0
 stamp:

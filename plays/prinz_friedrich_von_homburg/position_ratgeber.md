@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Ratgeber"
+title: "Counsellor"
 declared: "Ratgeber"
 license: CC-BY-NC-SA-4.0
 stamp:

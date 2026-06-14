@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Mechanischer Körper"
+title: "The Mechanical Body"
 declared: "Mechanischer Körper"
 license: CC-BY-NC-SA-4.0
 stamp:

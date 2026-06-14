@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Prinz Friedrich von Homburg"
+title: "Prince Friedrich of Homburg"
 declared: "Prinz Friedrich von Homburg"
 license: CC-BY-NC-SA-4.0
 stamp:

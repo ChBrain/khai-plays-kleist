@@ -1,6 +1,6 @@
 ---
 khai: persona
-title: "Die Obristin"
+title: "The Colonel's Wife"
 declared: "Die Obristin"
 license: CC-BY-NC-SA-4.0
 stamp:

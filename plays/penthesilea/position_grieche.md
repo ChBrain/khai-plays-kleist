@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Grieche"
+title: "Greek"
 declared: "Grieche"
 license: CC-BY-NC-SA-4.0
 stamp:

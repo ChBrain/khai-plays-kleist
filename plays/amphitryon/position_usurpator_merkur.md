@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Usurpator Merkur"
+title: "Usurper (Merkur)"
 declared: "Usurpator Merkur"
 license: CC-BY-NC-SA-4.0
 stamp:

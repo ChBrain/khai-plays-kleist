@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Priesterin"
+title: "Priestess"
 declared: "Priesterin"
 license: CC-BY-NC-SA-4.0
 stamp:

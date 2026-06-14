@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Nachlasshüterin"
+title: "Keeper of the Estate"
 declared: "Nachlasshüterin"
 license: CC-BY-NC-SA-4.0
 stamp:

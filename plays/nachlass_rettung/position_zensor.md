@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Zensor-Aufsicht"
+title: "Censorial Oversight"
 declared: "Zensor-Aufsicht"
 license: CC-BY-NC-SA-4.0
 stamp:

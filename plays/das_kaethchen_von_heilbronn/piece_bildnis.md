@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "Das Bildnis"
+title: "The Portrait"
 declared: "Das Bildnis"
 license: CC-BY-NC-SA-4.0
 stamp:

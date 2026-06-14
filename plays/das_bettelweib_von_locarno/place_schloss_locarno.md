@@ -1,6 +1,6 @@
 ---
 khai: place
-title: "Schloss-Locarno"
+title: "Locarno Castle"
 declared: "Schloss-Locarno"
 license: CC-BY-NC-SA-4.0
 stamp:
