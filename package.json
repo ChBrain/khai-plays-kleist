@@ -16,7 +16,8 @@
     "plays/**",
     "README.md",
     "LICENSE",
-    "LICENSE-CODE"
+    "LICENSE-CODE",
+    "registry.json"
   ],
   "khai": {
     "engine": "plays-kleist",

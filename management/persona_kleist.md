@@ -1,8 +1,8 @@
 ---
 khai: persona
 title: "Heinrich von Kleist"
-declared: "Heinrich von Kleist"
 license: CC-BY-NC-SA-4.0
+language: english
 voice: "periodic and headlong; certainty pursued until it shatters; the dash as a trapdoor under the sentence"
 stamp:
   owner: KAI HACKS AI
