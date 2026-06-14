@@ -1,5 +1,32 @@
 # @chbrain/khai-plays-kleist
 
+## 0.23.0
+
+### Minor Changes
+
+- 118d1ef: Stage Heinrich von Kleist's daily journal _Berliner Abendblätter_ (1810-1811) as a complete systemic model, establishing the play definition, 3 personas, 3 positions, 1 place, 1 piece, 1 plot, 1 plan, and 1 process.
+- eaefe39: Stage Heinrich von Kleist's novella _Das Bettelweib von Locarno_ (1810) as a complete systemic model, establishing the play definition, 6 personas, 6 positions, 1 place, 1 piece, 1 plot, 1 plan, and 1 process.
+- fb12464: Stage Heinrich von Kleist's historical knightly play _Das Käthchen von Heilbronn_ (1810) as a complete systemic model, establishing the play definition, 6 personas, 6 positions, 1 place, 1 piece, 1 plot, 1 plan, and 1 process.
+- aaf1165: Stage Heinrich von Kleist's novella _Der Findling_ (1811) as a complete systemic model, establishing the play definition, 6 personas, 6 positions, 1 place, 1 piece, 1 plot, 1 plan, and 1 process.
+- 118d1ef: Stage Heinrich von Kleist's novella _Der Zweikampf_ (1811) as a complete systemic model, establishing the play definition, 3 personas, 3 positions, 1 place, 1 piece, 1 plot, 1 plan, and 1 process.
+- b1c4345: Stage Heinrich von Kleist's legend _Die heilige Cäcilie oder die Gewalt der Musik_ (1810) as a complete systemic model, establishing the play definition, 6 personas, 6 positions, 1 place, 1 piece, 1 plot, 1 plan, and 1 process.
+- d980806: Stage Heinrich von Kleist's historical drama _Die Hermannsschlacht_ (1808) as a complete systemic model, establishing the play definition, 6 personas, 6 positions, 1 place, 1 piece, 1 plot, 1 plan, and 1 process.
+- ba7c501: Stage Heinrich von Kleist's biographical crisis play _The Kant Crisis_ (1801) as a complete systemic model, establishing the play definition, 3 personas, 2 positions, 1 place, 1 piece, 1 plot, 1 plan, and 1 process.
+- ba7c501: Stage Heinrich von Kleist's biographical crisis play _Recovery of the Nachlass_ (1821) as a complete systemic model, establishing the play definition, 3 personas, 3 positions, 1 place, 1 piece, 1 plot, 1 plan, and 1 process.
+- 225c98c: Stage Heinrich von Kleist's essay _Über die allmähliche Verfertigung der Gedanken beim Reden_ (1878) as a complete systemic model, establishing the play definition, 6 personas, 6 positions, 1 place, 1 piece, 1 plot, 1 plan, and 1 process.
+- ba7c501: Stage Heinrich von Kleist's biographical crisis play _The Wannsee Pact_ (1811) as a complete systemic model, establishing the play definition, 3 personas, 3 positions, 1 place, 1 piece, 1 plot, 1 plan, and 1 process.
+
+### Patch Changes
+
+- d475610: Re-scope the management house to English. The management instances (the production apparatus: Kleist, the Choregos, the Playwright, the Theatre Manager) are English content, not in-world German staging, so each declares `language: english` in frontmatter and carries no German `declared`.
+- ef7d05d: Ship the play registry in the published package by adding `registry.json` to the `files` array in `package.json`.
+- 5218663: Update root-level `REFERENCES.md` staging status to mark _Der Findling_ as staged and add _Die heilige Cäcilie oder die Gewalt der Musik_ as planned.
+- ef16368: Update root-level `REFERENCES.md` staging status to mark _Die Hermannsschlacht_ as staged and add _Der Findling_ as planned.
+- e1aa1c6: Update root-level `REFERENCES.md` staging status to mark _Das Käthchen von Heilbronn_ as staged and add _Die Hermannsschlacht_ as planned.
+- cf0c25e: Update root-level `REFERENCES.md` staging status to mark _Die heilige Cäcilie oder die Gewalt der Musik_ and _Das Bettelweib von Locarno_ as staged, and add _Über die allmähliche Verfertigung der Gedanken beim Reden_ as planned.
+- f8af910: Update root-level `REFERENCES.md` staging status to mark _Über das Marionettentheater_ as staged.
+- 98fce45: Update root-level `REFERENCES.md` staging status to mark _Über die allmähliche Verfertigung der Gedanken beim Reden_ as staged.
+
 ## 0.12.0
 
 ### Minor Changes
