@@ -29,6 +29,9 @@ The current status of the Kleist productions within this house:
 - [x] **Die heilige Cäcilie oder die Gewalt der Musik** (Eine Legende) - Staged
 - [x] **Das Bettelweib von Locarno** (Novella) - Staged
 - [x] **Über die allmähliche Verfertigung der Gedanken beim Reden** (Essay) - Staged
+- [x] **The Kant Crisis** (Biography) - Staged
+- [x] **The Wannsee Pact** (Biography) - Staged
+- [x] **Recovery of the Nachlass** (Biography) - Staged
 - [x] **Der Zweikampf** (Novella) - Staged
 - [x] **Berliner Abendblätter** (Journal) - Staged
 
