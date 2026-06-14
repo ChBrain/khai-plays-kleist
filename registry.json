@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-plays-kleist",
-  "version": "0.19.0",
+  "version": "0.22.0",
   "plays": [
     {
       "id": "amphitryon",
@@ -97,6 +97,21 @@
       "id": "ueber_die_allmaehliche_verfertigung",
       "title": "Über die allmähliche Verfertigung der Gedanken beim Reden",
       "description": "Ein Dialogessay über die Entstehung klarer Gedanken während des aktiven Sprechvollzugs im Austausch mit einem Hörer."
+    },
+    {
+      "id": "kant_krise",
+      "title": "The Kant Crisis",
+      "description": "Ein philosophisches Drama über Heinrich von Kleists Erkenntnisschock nach der Lektüre Immanuel Kants."
+    },
+    {
+      "id": "wannsee_pakt",
+      "title": "The Wannsee Pact",
+      "description": "Das Protokoll des gemeinsamen Freitods von Heinrich von Kleist und Henriette Vogel am Wannsee im November 1811."
+    },
+    {
+      "id": "nachlass_rettung",
+      "title": "Recovery of the Nachlass",
+      "description": "Ein editorisches Drama über Ludwig Tiecks Bemühungen, Heinrich von Kleists verstreute Fragmente zu retten."
     }
   ]
 }
