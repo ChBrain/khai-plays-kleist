@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Duel"
+description: "A trial by combat whose false victory throws divine justice itself into doubt."
 declared: "Der Zweikampf"
 license: CC-BY-NC-SA-4.0
 stamp:

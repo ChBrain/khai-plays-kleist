@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Kate of Heilbronn"
+description: "A grand chivalric drama of unconditional trust, prophetic dreams, and sleepwalking."
 declared: "Das Käthchen von Heilbronn"
 license: CC-BY-NC-SA-4.0
 stamp:

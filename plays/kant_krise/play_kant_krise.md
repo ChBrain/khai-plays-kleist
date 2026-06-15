@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Kant Crisis"
+description: "The shock to Kleist's certainty of knowledge after he reads Immanuel Kant."
 declared: "The Kant Crisis"
 license: CC-BY-NC-SA-4.0
 stamp:

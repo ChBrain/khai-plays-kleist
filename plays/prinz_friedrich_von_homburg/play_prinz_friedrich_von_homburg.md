@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Prince of Homburg"
+description: "A drama of individual feeling against the relentless order of military law."
 declared: "Prinz Friedrich von Homburg"
 license: CC-BY-NC-SA-4.0
 stamp:

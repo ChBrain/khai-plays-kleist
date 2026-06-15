@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Amphitryon"
+description: "A comedy of divine identity theft and the collapse of reliable self-knowledge."
 declared: "Amphitryon"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Betrothal in Santo Domingo"
+description: "Trust and love fail tragically amid race war and revolution in Santo Domingo."
 declared: "Die Verlobung in St. Domingo"
 license: CC-BY-NC-SA-4.0
 stamp:

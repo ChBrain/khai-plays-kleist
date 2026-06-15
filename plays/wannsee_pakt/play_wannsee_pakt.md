@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Wannsee Pact"
+description: "The record of the shared suicide of Heinrich von Kleist and Henriette Vogel at the Wannsee."
 declared: "The Wannsee Pact"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Beggarwoman of Locarno"
+description: "A marquis loses his mind when a beggarwoman he killed returns to haunt his castle."
 declared: "Das Bettelweib von Locarno"
 license: CC-BY-NC-SA-4.0
 stamp:

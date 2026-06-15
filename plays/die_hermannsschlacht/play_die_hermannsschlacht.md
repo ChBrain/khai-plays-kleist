@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Battle of Hermann"
+description: "Hermann cunningly unites the Germanic tribes to annihilate the Roman legions."
 declared: "Die Hermannsschlacht"
 license: CC-BY-NC-SA-4.0
 stamp:
