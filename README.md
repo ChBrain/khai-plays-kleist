@@ -1,5 +1,5 @@
 ---
-voice: "periodic and deeply subordinated; the dash as the hinge where certainty breaks"
+voice: "periodic and deeply subordinated; the colon turns, the period falls, and certainty breaks at the clause"
 language: de
 ---
 
