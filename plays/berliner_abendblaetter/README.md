@@ -5,7 +5,7 @@ language: de
 
 # README: Berliner Abendblätter
 
-Die Stufen und Charaktere für die Aufführung von Heinrich von Kleists historischer Herausgeber- und Zensurkrise der _Berliner Abendblätter_ (1810–1811) in Berlin.
+Die Stufen und Charaktere für die Aufführung von Heinrich von Kleists historischer Herausgeber- und Zensurkrise der _Berliner Abendblätter_ (1810 to 1811) in Berlin.
 
 Dieses Dokument dient als Eintritt für die Stufe des Stücks, das sich um die Zensur und den Zusammenbruch der ersten Berliner Tageszeitung dreht. Heinrich von Kleist etabliert im Oktober 1810 ein innovatives tägliches Journal, das durch eine pikante Mischung aus exklusiven Kriminalberichten der preußischen Polizei, leidenschaftlichen Theaterkritiken und philosophischen Essays wie dem _Marionettentheater_ die Aufmerksamkeit des Berliner Publikums fesselt. Doch die preußische Zensurbehörde sieht die politische Wirkung mit Sorge und schränkt das Blatt durch drastische Auflagen ein. Durch das Abschneiden der polizeilichen Informationsquellen und das Verbot freier Kritik wird der Nachrichtenfluss abgewürgt, was das Abonnementpublikum vergrault, Kleist in den wirtschaftlichen Ruin treibt und das publizistische Experiment schließlich im Frühjahr 1811 scheitern lässt.
 
