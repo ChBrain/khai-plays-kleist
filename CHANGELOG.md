@@ -1,5 +1,12 @@
 # @chbrain/khai-plays-kleist
 
+## 0.22.2
+
+### Patch Changes
+
+- 8e7397c: data: remove the lone en-dash from the Berliner Abendblätter README year range (`1810–1811` -> `1810 to 1811`), per the global no-dash rule. The only literal dash in the Kleist play sources.
+- 0d3c16f: governance: rebuild the house `voice` so it no longer endorses the dash, which contradicts the global no-dash rule. Kleist's essential character is kept (periodic, deeply subordinated sentences where certainty breaks) but the mechanism now rests on the period, the colon, and subordination instead of the dash. No play prose is changed.
+
 ## 0.22.1
 
 ### Patch Changes
