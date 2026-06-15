@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Foundling"
+description: "An adopted son's ingratitude ruins the family and house of Piacenti that took him in."
 declared: "Der Findling"
 license: CC-BY-NC-SA-4.0
 stamp:

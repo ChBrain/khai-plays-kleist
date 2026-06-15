@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Berlin Evening Pages"
+description: "Berlin's first daily newspaper, and Kleist's collision with Prussian censorship."
 declared: "Berliner Abendblätter"
 license: CC-BY-NC-SA-4.0
 stamp:

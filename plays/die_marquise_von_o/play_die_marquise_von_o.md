@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Marquise of O..."
+description: "A widow, pregnant from a swoon she cannot explain, searches for the father."
 declared: "Die Marquise von O..."
 license: CC-BY-NC-SA-4.0
 stamp:

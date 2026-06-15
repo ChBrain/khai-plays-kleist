@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "On the Marionette Theatre"
+description: "A dialogue on mechanical grace, human consciousness, and innocence lost after the Fall."
 declared: "Über das Marionettentheater"
 license: CC-BY-NC-SA-4.0
 stamp:

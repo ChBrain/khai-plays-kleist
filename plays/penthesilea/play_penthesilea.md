@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Penthesilea"
+description: "A tragedy of the deadly clash between the law of the Amazons and absolute desire."
 declared: "Penthesilea"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Broken Jug"
+description: "A comedy in which Judge Adam presides over the trial of a crime he committed himself."
 declared: "Der zerbrochne Krug"
 license: CC-BY-NC-SA-4.0
 stamp:

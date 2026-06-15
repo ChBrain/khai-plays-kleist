@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Earthquake in Chile"
+description: "An earthquake topples a society's laws, then the mob violently restores them."
 declared: "Das Erdbeben in Chili"
 license: CC-BY-NC-SA-4.0
 stamp:

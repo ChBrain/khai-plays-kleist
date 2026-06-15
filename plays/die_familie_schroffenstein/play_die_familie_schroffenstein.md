@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "The Schroffenstein Family"
+description: "A tragedy of suspicion and revenge spiralling fatally between two branches of one family."
 declared: "Die Familie Schroffenstein"
 license: CC-BY-NC-SA-4.0
 stamp:

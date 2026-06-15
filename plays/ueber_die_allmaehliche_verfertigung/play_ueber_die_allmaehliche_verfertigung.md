@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "On the Gradual Formation of Thoughts While Speaking"
+description: "An essay on how clear thoughts take shape in the very act of speaking to a listener."
 declared: "Über die allmähliche Verfertigung der Gedanken beim Reden"
 license: CC-BY-NC-SA-4.0
 stamp:

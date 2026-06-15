@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Robert Guiskard"
+description: "A tragic fragment of staged power and a plague concealed in the Norman war camp."
 declared: "Robert Guiskard"
 license: CC-BY-NC-SA-4.0
 stamp:

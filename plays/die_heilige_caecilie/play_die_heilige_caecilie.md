@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "St Cecilia, or the Power of Music"
+description: "Four iconoclasts are struck into eternal religious rapture by a miracle of the organ."
 declared: "Die heilige Cäcilie oder die Gewalt der Musik"
 license: CC-BY-NC-SA-4.0
 stamp:

@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Recovery of the Nachlass"
+description: "Ludwig Tieck labours to rescue Heinrich von Kleist's scattered fragments."
 declared: "Recovery of the Nachlass"
 license: CC-BY-NC-SA-4.0
 stamp:

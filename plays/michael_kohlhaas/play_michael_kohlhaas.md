@@ -1,6 +1,7 @@
 ---
 khai: play
 title: "Michael Kohlhaas"
+description: "A horse dealer's unbending demand for justice escalates into devastating violence."
 declared: "Michael Kohlhaas"
 license: CC-BY-NC-SA-4.0
 stamp:
