@@ -1,5 +1,15 @@
 # @chbrain/khai-plays-kleist
 
+## 0.22.4
+
+### Patch Changes
+
+- 4a7bcd0: plays: English shelf loglines. Add an English `description:` to every play's
+  frontmatter and regenerate registry.json, so the registry (the English-facing
+  index the website overview reads) carries English loglines while the German
+  `## Arc` stays the book's synopsis. Also bumps `@chbrain/khai-tests` to 0.1.21,
+  which reads the frontmatter `description`. 22 plays.
+
 ## 0.22.3
 
 ### Patch Changes
