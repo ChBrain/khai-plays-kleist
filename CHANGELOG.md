@@ -1,5 +1,11 @@
 # @chbrain/khai-plays-kleist
 
+## 0.22.3
+
+### Patch Changes
+
+- c4de84f: deps: bump `@chbrain/khai-tests` to 0.1.20 (lockfile), which adds the `titleLeakAudit` reviewer-assist. Conformance stays green; the assist surfaces source-language-in-`title:` candidates as audit notes only.
+
 ## 0.22.2
 
 ### Patch Changes
