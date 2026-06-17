@@ -1,8 +1,8 @@
 ---
 khai: position
 title: "The Choregos"
-license: CC-BY-NC-SA-4.0
 language: english
+license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1

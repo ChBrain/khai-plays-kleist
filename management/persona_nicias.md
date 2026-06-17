@@ -1,8 +1,8 @@
 ---
 khai: persona
 title: "Nicias"
-license: CC-BY-NC-SA-4.0
 language: english
+license: CC-BY-NC-SA-4.0
 voice: "measured, weighted; the generosity of a man who knows the crowd; piety as grammar"
 stamp:
   owner: KAI HACKS AI
