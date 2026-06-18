@@ -52,6 +52,8 @@ Der Prinz von Homburg, träumend auf dem Schlachtfeld von Fehrbellin, missachtet
   - [Das Todesurteil](plan_todesurteil.md)
 - Processes:
   - [Das Schlafwandeln](process_schlafwandeln.md)
+- Tonart:
+  - [die Todesfurcht](pitch_dread.md)
 
 ## Triggers
 

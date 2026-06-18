@@ -52,6 +52,8 @@ Ein junger Schweizer Offizier auf der Flucht - Gustav -, sucht Schutz auf einer 
   - [Die Befreiung und Flucht](plan_befreiung_und_flucht.md)
 - Processes:
   - [Die Fehlinterpretation](process_fehlinterpretation.md)
+- Tonart:
+  - [die Trauer](pitch_grieving.md)
 
 ## Triggers
 

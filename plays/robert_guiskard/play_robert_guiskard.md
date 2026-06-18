@@ -52,6 +52,8 @@ Das normannische Heer lagert belagernd vor den Mauern von Konstantinopel, doch e
   - [Die Machtdemonstration](plan_machtdemonstration.md)
 - Processes:
   - [Die Infektionsvertuschung](process_infektionsvertuschung.md)
+- Tonart:
+  - [die Seuche](pitch_dread.md)
 
 ## Triggers
 

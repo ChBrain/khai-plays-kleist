@@ -45,6 +45,8 @@ Der junge Kleist gerät durch das Studium von Kants Erkenntnistheorie in eine ex
   - [Wissenschaftsflucht](plan_wissenschaftsflucht.md)
 - Processes:
   - [Gedankenzersetzung](process_gedankenzersetzung.md)
+- Tonart:
+  - [der Zweifel](pitch_dread.md)
 
 ## Triggers
 

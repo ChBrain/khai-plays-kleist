@@ -52,6 +52,8 @@ Ein ehrlicher und wohlhabender Rosshändler - Michael Kohlhaas -, dessen Pferde 
   - [Die Selbstjustiz](plan_selbstjustiz.md)
 - Processes:
   - [Die Rechtsetzungsverzerrung](process_rechtsetzungsverzerrung.md)
+- Tonart:
+  - [der Gerechtigkeitszorn](pitch_furious.md)
 
 ## Triggers
 

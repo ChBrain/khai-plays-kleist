@@ -52,6 +52,8 @@ Die tugendhafte Witwe Julietta - die Marquise von O... - erfährt zu ihrem Schre
   - [Der Aufruf](plan_aufruf.md)
 - Processes:
   - [Die Bewusstseinslücke](process_bewusstseinsluecke.md)
+- Tonart:
+  - [die Komödie](pitch_comic.md)
 
 ## Triggers
 

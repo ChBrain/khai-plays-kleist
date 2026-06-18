@@ -46,6 +46,8 @@ Nach dem Meuchelmord an Herzog Wilhelm von Breisach beschuldigt dessen Halbbrude
   - [Ehrenrettung](plan_ehrenrettung.md)
 - Processes:
   - [Zweifel-Gottesurteil](process_zweifel_gottesurteil.md)
+- Tonart:
+  - [die Bewährung](pitch_heroic.md)
 
 ## Triggers
 

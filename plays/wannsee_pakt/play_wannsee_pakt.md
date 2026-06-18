@@ -46,6 +46,8 @@ Kleist und die unheilbar kranke Henriette Vogel vollziehen an einem Novembertag 
   - [Austrittsprotokoll](plan_austrittsprotokoll.md)
 - Processes:
   - [Todesbegeisterung](process_todesbegeisterung.md)
+- Tonart:
+  - [die Todesbereitschaft](pitch_still.md)
 
 ## Triggers
 

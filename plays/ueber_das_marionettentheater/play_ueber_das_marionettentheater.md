@@ -52,6 +52,8 @@ In einem öffentlichen Garten begegnet der Ich-Erzähler dem berühmten Tänzer 
   - [Die Schwerpunkt-Steuerung](plan_schwerpunkt_steuerung.md)
 - Processes:
   - [Der Reflexionskollaps](process_reflexionskollaps.md)
+- Tonart:
+  - [die Anmut](pitch_wondrous.md)
 
 ## Triggers
 

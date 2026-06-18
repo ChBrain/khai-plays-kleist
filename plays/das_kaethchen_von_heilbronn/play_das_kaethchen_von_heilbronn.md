@@ -52,6 +52,8 @@ Käthchen Friedeborn folgt Graf Wetter vom Strahl mit unbedingtem Vertrauen, was
   - [Traumbild-Abgleich](plan_traumbild_abgleich.md)
 - Processes:
   - [Somnambuler Wahrheitsfluss](process_somnambuler_wahrheitsfluss.md)
+- Tonart:
+  - [die Zärtlichkeit](pitch_tender.md)
 
 ## Triggers
 
