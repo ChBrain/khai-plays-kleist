@@ -52,6 +52,8 @@ Kleist legt dar, dass Gedanken nicht vor dem Sprechen vollendet sein müssen, so
   - [Redeausführung](plan_redeausfuehrung.md)
 - Processes:
   - [Allmähliche Verfertigung](process_allmaehliche_verfertigung.md)
+- Tonart:
+  - [der Witz](pitch_comic.md)
 
 ## Triggers
 

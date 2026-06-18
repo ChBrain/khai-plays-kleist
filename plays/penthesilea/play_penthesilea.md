@@ -52,6 +52,9 @@ Die Amazonenkönigin Penthesilea zieht in den Kampf vor Troja, um nach heiligem 
   - [Die Scheinunterwerfung](plan_scheinunterwerfung.md)
 - Processes:
   - [Die Raserei](process_raserei.md)
+- Tonart:
+  - [die Raserei](pitch_furious.md)
+  - [das Entsetzliche](pitch_abject.md)
 
 ## Triggers
 

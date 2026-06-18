@@ -52,6 +52,8 @@ Ein grauser Marquis vertreibt im Zorn eine kranke Bettlerin, die in seinem Schlo
   - [Schloss-Verkauf](plan_schloss_verkauf.md)
 - Processes:
   - [Spuk-Wahnsinn](process_spuk_wahnsinn.md)
+- Tonart:
+  - [das Grauen](pitch_dread.md)
 
 ## Triggers
 

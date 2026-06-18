@@ -52,6 +52,8 @@ Der thebanische Feldherr Amphitryon kehrt siegreich aus dem Krieg heim, muss jed
   - [Die Selbstvergewisserung](plan_selbstvergewisserung.md)
 - Processes:
   - [Die Selbstentfremdung](process_selbstentfremdung.md)
+- Tonart:
+  - [das Lustspiel](pitch_comic.md)
 
 ## Triggers
 
