@@ -4,111 +4,133 @@
   "version": "0.22.7",
   "plays": [
     {
+      "kind": "play",
       "id": "amphitryon",
       "title": "Amphitryon",
       "description": "A comedy of divine identity theft and the collapse of reliable self-knowledge."
     },
     {
+      "kind": "play",
       "id": "berliner_abendblaetter",
       "title": "The Berlin Evening Pages",
       "description": "Berlin's first daily newspaper, and Kleist's collision with Prussian censorship."
     },
     {
+      "kind": "play",
       "id": "das_bettelweib_von_locarno",
       "title": "The Beggarwoman of Locarno",
       "description": "A marquis loses his mind when a beggarwoman he killed returns to haunt his castle."
     },
     {
+      "kind": "play",
       "id": "das_erdbeben_in_chili",
       "title": "The Earthquake in Chile",
       "description": "An earthquake topples a society's laws, then the mob violently restores them."
     },
     {
+      "kind": "play",
       "id": "das_kaethchen_von_heilbronn",
       "title": "Kate of Heilbronn",
       "description": "A grand chivalric drama of unconditional trust, prophetic dreams, and sleepwalking."
     },
     {
+      "kind": "play",
       "id": "der_findling",
       "title": "The Foundling",
       "description": "An adopted son's ingratitude ruins the family and house of Piacenti that took him in."
     },
     {
+      "kind": "play",
       "id": "der_zerbrochne_krug",
       "title": "The Broken Jug",
       "description": "A comedy in which Judge Adam presides over the trial of a crime he committed himself."
     },
     {
+      "kind": "play",
       "id": "der_zweikampf",
       "title": "The Duel",
       "description": "A trial by combat whose false victory throws divine justice itself into doubt."
     },
     {
+      "kind": "play",
       "id": "die_familie_schroffenstein",
       "title": "The Schroffenstein Family",
       "description": "A tragedy of suspicion and revenge spiralling fatally between two branches of one family."
     },
     {
+      "kind": "play",
       "id": "die_heilige_caecilie",
       "title": "St Cecilia, or the Power of Music",
       "description": "Four iconoclasts are struck into eternal religious rapture by a miracle of the organ."
     },
     {
+      "kind": "play",
       "id": "die_hermannsschlacht",
       "title": "The Battle of Hermann",
       "description": "Hermann cunningly unites the Germanic tribes to annihilate the Roman legions."
     },
     {
+      "kind": "play",
       "id": "die_marquise_von_o",
       "title": "The Marquise of O...",
       "description": "A widow, pregnant from a swoon she cannot explain, searches for the father."
     },
     {
+      "kind": "play",
       "id": "die_verlobung_in_st_domingo",
       "title": "The Betrothal in Santo Domingo",
       "description": "Trust and love fail tragically amid race war and revolution in Santo Domingo."
     },
     {
+      "kind": "play",
       "id": "kant_krise",
       "title": "The Kant Crisis",
       "description": "The shock to Kleist's certainty of knowledge after he reads Immanuel Kant."
     },
     {
+      "kind": "play",
       "id": "michael_kohlhaas",
       "title": "Michael Kohlhaas",
       "description": "A horse dealer's unbending demand for justice escalates into devastating violence."
     },
     {
+      "kind": "play",
       "id": "nachlass_rettung",
       "title": "Recovery of the Nachlass",
       "description": "Ludwig Tieck labours to rescue Heinrich von Kleist's scattered fragments."
     },
     {
+      "kind": "play",
       "id": "penthesilea",
       "title": "Penthesilea",
       "description": "A tragedy of the deadly clash between the law of the Amazons and absolute desire."
     },
     {
+      "kind": "play",
       "id": "prinz_friedrich_von_homburg",
       "title": "The Prince of Homburg",
       "description": "A drama of individual feeling against the relentless order of military law."
     },
     {
+      "kind": "play",
       "id": "robert_guiskard",
       "title": "Robert Guiskard",
       "description": "A tragic fragment of staged power and a plague concealed in the Norman war camp."
     },
     {
+      "kind": "play",
       "id": "ueber_das_marionettentheater",
       "title": "On the Marionette Theatre",
       "description": "A dialogue on mechanical grace, human consciousness, and innocence lost after the Fall."
     },
     {
+      "kind": "play",
       "id": "ueber_die_allmaehliche_verfertigung",
       "title": "On the Gradual Formation of Thoughts While Speaking",
       "description": "An essay on how clear thoughts take shape in the very act of speaking to a listener."
     },
     {
+      "kind": "play",
       "id": "wannsee_pakt",
       "title": "The Wannsee Pact",
       "description": "The record of the shared suicide of Heinrich von Kleist and Henriette Vogel at the Wannsee."
